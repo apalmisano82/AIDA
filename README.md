@@ -51,3 +51,34 @@ C -the radiocarbon sample is within a 5km radius’ buffer of the coordinates co
 D- the radiocarbon sample is within a 10 km radius’ buffer of the coordinates collected
 
 E- the radiocarbon sample is within a 20 km radius’ buffer of the coordinates collected
+
+
+## Major contributing datasets/databases
+
+The literature used to compile the present dataset can be found in the file References.txt. However, NERD benefitted from the following existing digital online archives:
+
+* [BANADORA. Banque Nationale de Données Radiocarbonne pour l'Europe et le Proche Orient, Centre de Datation par le Radiocarbonne.](http://www.arar.mom.fr/banadora/) Lyon: CNRS.  
+
+* [CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package.](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) Developed by Weninger, B., Jöris, O., and Danzeglocke, U.
+
+* Capuzzo, G., Boaretto, E. and Barceló, J.A., 2014. EUBAR: A database of 14C measurements for the European Bronze Age. A Bayesian analysis of 14C-dated archaeological contexts from Northern Italy and Southern France. Radiocarbon, 56(2), pp.851-869.(http://www.telearchaeology.org/EUBAR/)
+
+* Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age. Journal of Neolithic Archaeology, 14, 1-4](http://radon.ufg.uni-kiel.de/) 
+
+* [IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.](http://c14.kikirpa.be/) Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database. Radiocarbon, 53(2), pp.367-370. 
+
+* [ORAU. Oxford Radiocarbon Accelerator Unit online database.](https://c14.arch.ox.ac.uk/database/db.php) Oxford: University of Oxford.
+
+
+## Licence
+
+The AIDA dataset is made available under the [Creative Common License CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## How to cite
+Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA: Archives of Italian radiocarbon DAtes", version 1.0 (3rd August 2021): https://github.com/apalmisano82/AIDA
+
+## Case studies using NERD
+
+
+
+
