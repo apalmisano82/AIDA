@@ -1,0 +1,14 @@
+Data description of the file "dates.csv"This file contains uncalibrated raw dates from archaeological data distributed across the whole Near East
+
+DateID (numeric): unique identifier for the radiocarbon sample.LabID (character): unique identifier for the lab’s radiocarbon sample.
+OthLabID (character): unique alternative identifier for the lab’s radiocarbon sample.
+Problems (character): problems related to the radiocarbon sample (e.g. missing Lab Id, duplicated Lab Ids, etc.)
+CRA (numeric): radiocarbon concentration expressed in years before present (BP).Error (numeric): Standard error of radiocarbon date in years.
+DC13 (numeric): d13C values of radiocarbon sample.Material (character): material of the radiocarbon sample.Species (character): species of the radiocarbon sample.SiteID (numeric): unique identifier of the site from which the radiocarbon sample has been collected.SiteName (character): name of archaeological site.
+SiteContext (character): original archaeological context from which the radiocarbon sample was collected.SiteType (character): type of archaeological site.
+Longitude (numeric): WGS84 eastingsLatitude (numeric): WGS84 northings
+LocQual (character): scale defining the accuracy of the spatial coordinates of radiocarbon samples.
+Source (character): source from which the radiocarbon samples have been collected.
+Comment (character): Comments about the issues reported in the field "Problems".Location Quality KeyA – exact coordinates of radiocarbon sample (centroid of the archaeological site from which was collected)
+B- the radiocarbon sample is within a 2km radius’ buffer of the coordinates collectedC -the radiocarbon sample is within a 5km radius’ buffer of the coordinates collectedD- the radiocarbon sample is within a 10 km radius’ buffer of the coordinates collected
+E- the radiocarbon sample is within a 20 km radius’ buffer of the coordinates collected 
