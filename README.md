@@ -1,6 +1,6 @@
 # AIDA (Archive of Italian radiocarbon DAtes)
 
-#### Alessio Palmisano, Andrew Bevan, Dan Lawrence & Stephen Shennan 
+#### Alessio Palmisano, Andrew Bevan, Alex Kabelindde, Neil Roberts & Stephen Shennan 
 
 The archive AIDA provides a collation of 4,010 radiocarbon dates from 947 archaeological sites in Italy  (mainland, including Sicily and Sardinia) spanning from 11,000 to 1500 uncal. yr. BP . These dates have been collected from existing online digital archives, and electronic and print original publications. 
 
@@ -75,9 +75,15 @@ The literature used to compile the present dataset can be found in the file Refe
 The AIDA dataset is made available under the [Creative Common License CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## How to cite
-Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA: Archives of Italian radiocarbon DAtes", version 1.0 (3rd August 2021): https://github.com/apalmisano82/AIDA
+Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA: Archive of Italian radiocarbon DAtes", version 1.0 (3rd August 2021): https://github.com/apalmisano82/AIDA
 
-## Case studies using NERD
+## Case studies using AIDA
+
+* Palmisano, A., Bevan, A. and Shennan, S., 2017. [Comparing archaeological proxies for long-term population patterns: An example from central Italy.](https://www.sciencedirect.com/science/article/pii/S0305440317301474) Journal of Archaeological Science, 87, pp.59-72.
+
+* Palmisano, A., Bevan, A., & Shennan, S., 2018. [Regional Demographic Trends and Settlement Patterns in Central Italy: Archaeological Sites and Radiocarbon Dates.](http://doi.org/10.5334/joad.43) Journal of Open Archaeology Data, 6(1), p.2. 
+
+*
 
 
 
