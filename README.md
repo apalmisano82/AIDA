@@ -2,7 +2,7 @@
 
 #### Alessio Palmisano, Andrew Bevan, Alex Kabelindde, Neil Roberts & Stephen Shennan 
 
-The archive AIDA provides a collation of 4,010 radiocarbon dates from 947 archaeological sites in Italy  (mainland, including Sicily and Sardinia) spanning from 11,000 to 1500 uncal. yr. BP . These dates have been collected from existing online digital archives, and electronic and print original publications. The present digital archive contains also one script written in R statistical computing language to run reproducible analyses and figures related to the following paper: Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., and Shennan, S., in press. Long-Term Demographic Trends in Prehistoric Italy: climate impacts and regionalised socio-ecological trajectories. Journal of World Prehistory, 34 (3). 
+The archive AIDA provides a collation of 4,010 radiocarbon dates from 947 archaeological sites in Italy  (mainland, including Sicily and Sardinia) spanning from 11,000 to 1500 uncal. yr. BP . These dates have been collected from existing online digital archives, and electronic and print original publications. 
 
 ![Fig1](https://user-images.githubusercontent.com/13691742/128021804-165e950c-4488-43a2-bd30-6dec327c9d19.jpg)
 
@@ -15,7 +15,7 @@ There are several caveats related to the present dataset as the original radioca
 
 ## Main Dataset AIDA
 
-The main dataset is to be found within /Palmisano_etal_data_and_code/csv/dates.csv. The csv-file is encoded in ‘UTF-8’. The geographic coordinates are stored as unprojected LatLon coordinate system, WGS84 datum. 
+The main dataset is to be found within /data/dates.csv. The csv-file is encoded in ‘UTF-8’. The geographic coordinates are stored as unprojected LatLon coordinate system, WGS84 datum. 
 
 
 | Datafield | Description 
@@ -55,7 +55,7 @@ E- the radiocarbon sample is within a 20 km radius’ buffer of the coordinates 
 
 ## Major contributing datasets/databases
 
-The literature used to compile the present dataset can be found in the file References.txt. However, NERD benefitted from the following existing digital online archives:
+The literature used to compile the present dataset can be found in the file references_dates.txt. However, NERD benefitted from the following existing digital online archives:
 
 * [BANADORA. Banque Nationale de Données Radiocarbonne pour l'Europe et le Proche Orient, Centre de Datation par le Radiocarbonne.](http://www.arar.mom.fr/banadora/) Lyon: CNRS.  
 
