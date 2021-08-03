@@ -2,7 +2,7 @@
 
 #### Alessio Palmisano, Andrew Bevan, Alex Kabelindde, Neil Roberts & Stephen Shennan 
 
-The archive AIDA provides a collation of 4,010 radiocarbon dates from 947 archaeological sites in Italy  (mainland, including Sicily and Sardinia) spanning from 11,000 to 1500 uncal. yr. BP . These dates have been collected from existing online digital archives, and electronic and print original publications. 
+The archive AIDA provides a collation of 4,010 radiocarbon dates from 947 archaeological sites in Italy  (mainland, including Sicily and Sardinia) spanning from 11,000 to 1500 uncal. yr. BP . These dates have been collected from existing online digital archives, and electronic and print original publications. The present digital archive contains also one script written in R statistical computing language to run reproducible analyses and figures related to the following paper: Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., and Shennan, S., in press. Long-Term Demographic Trends in Prehistoric Italy: climate impacts and regionalised socio-ecological trajectories. Journal of World Prehistory, 34 (3). 
 
 ![Fig1](https://user-images.githubusercontent.com/13691742/128021804-165e950c-4488-43a2-bd30-6dec327c9d19.jpg)
 
