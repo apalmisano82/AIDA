@@ -1,0 +1,705 @@
+
+* DATABASES/DATASETS
+BANADORA. Banque Nationale de Données Radiocarbonne pour l'Europe et le Proche Orient, Centre de Datation par le Radiocarbonne [Internet]. Lyon: CNRS.  Available from: http://www.arar.mom.fr/banadora/  CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package. Developed by Weninger, B., Jöris, O., and Danzeglocke, U: http://monrepos-rgzm.de/forschung/ausstattung.html#calpal Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age. Journal of Neolithic Archaeology, 14, 1-4. Available from: http://radon.ufg.uni-kiel.de/ IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.  Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database. Radiocarbon, 53(2), pp.367-370. http://c14.kikirpa.be/ ORAU. Oxford Radiocarbon Accelerator Unit online database [Internet]. Oxford: University of Oxford. Available from: https://c14.arch.ox.ac.uk/database/db.php  *REFERENCES 
+
+Alberti, G. 2011. Radiocarbon Evidence from the Middle Bronze Age Settlement at Portella (Aeolian Islands, Italy): Chronological and Archaeological Implications. Radiocarbon 53: 1-12.
+
+Alberti, G., 2013. Issues in the absolute chronology of the Early–M iddle Bronze Age transition in Sicily and southern Italy: a Bayesian radiocarbon view. Journal of Quaternary Science, 28(6), pp.630-640.
+
+Alberti, G., 2015. The aid of Bayesian radiocarbon modeling in assessing the chronology of Middle Bronze Age Sicily at the site level. A case study. Journal of Archaeological Science: Reports, 2, pp.246-256.
+
+Albore Livadie, C., Campajola, L., D'Onofrio, A., Moniot, R., Roca, V., Romano, M., Russo, F. and Terrasi, F., 1998. Evidence of the adverse impact of the «Avellino Pumices» eruption of Somma-Vesuvius on old bronze age sites in the Campania region (Southern Italy)[L'impact de l'éruption du Somma-Vésuve dite des «Ponces d'Avellino» sur les sites du Bronze antique en Campanie (Italie méridionale)]. Quaternaire, 9(1), pp.37-43.
+
+
+Alciati, G., Cattani, L.A.U.R.A., Fontana, F., Gerhardinger, E., Guerreschi, A., Milliken, S.A.R.A.H., Mozzi, P. and Rowley-Conwy, P., 1994. Mendeval de Sora: A High Altitude Mesolithic Campsite in the Italian Dolomites. Museo tridentino di scienze naturali.
+
+Alessandri, L., 2019. The early and Middle Bronze Age (1/2) in South and central Tyrrhenian Italy and their connections with the Avellino eruption: An overview. QuInt, 499, pp.161-185.
+
+Alessio, M., Bella, F., and Cortesi, C., 1964. University of Rome Carbon-14 Dates II. Radiocarbon 6, 77-90.
+
+Alessio, M., Bella, F., Bachechi, F. and Cortesi, C., 1965. University of Rome carbon-14 dates III. Radiocarbon, 7, pp.213-222.
+
+Alessio, M., Bella, F., Bachechi, F. and Cortesi, C., 1966. University of Rome carbon-14 dates IV. Radiocarbon, 8, pp.401-412.
+
+Alessio, M., Bella, F., Bachechi, F. and Cortesi, C., 1967. University of Rome carbon-14 dates V. Radiocarbon, 9, pp.346-367.
+Alessio, M., Bella, F., Cortesi, C. and Graziadei, B., 1968. University of Rome carbon-14 dates VI. Radiocarbon, 10(2), pp.350-364.
+
+Alessio, M and F.Bella. 1969. University of Rome Radiocarbon dates VII. Radiocarbon 11: 482-498.
+
+Alessio, M., Bella, F., Improta, S., Belluomini, G., Cortesi, C. and Turi, B., 1970. University of Rome carbon-14 dates VIII. Radiocarbon, 12(2), pp.599-616.
+
+Alessio, M., Bella, F., Improta, S., Belluomini, G., Cortesi, C.T. and Turi, B., 1971. University of Rome carbon-14 dates IX. Radiocarbon, 13(2), pp.395-411.
+
+Alessio, M., Bella, F., Improta, S., Belluomini, G., Calderoni, G., Cortesi, C. and Turi, B., 1973. University of Rome carbon-14 dates X. Radiocarbon, 15(1), pp.165-178.
+
+Alessio, M., Bella, F., Improta, S., Belluomini, G., Calderoni, G., Cortesi, C. and Turi, B., 1974. University of Rome carbon-14 dates XII. Radiocarbon, 16(03), pp.358-367.
+
+Alessio, M., Bella, F., Improta, S., Belluomini, G., Calderoni, G., Cortesi, C., Manelli, G.L. and Vigilante, A., 1975. University of Rome Carbon-14 Dates XIII. Radiocarbon, 17(03), pp.313-327.
+
+Alessio, M., Bella, F., Cortesi, C1976a. University of Rome carbon-14 dates XIV. Radiocarbon 6, pp. 77-90.
+
+Alessio, M., Bella, F., Calderoni, G., Cortesi, C. and Improta, S., 1976b. Carbon-14 dating of bone collagen from Upper Paleolithic Palidoro deposit. Quaternaria, 19, pp.181-185.
+
+Alessio, M., Allegri, L., Bella, F., Improta, S., Belluomini, G., Calderone, G., Cortesi, C., Manfra, L., Petrone, V. and Fruscalzo, A., 1978. University of Rome carbon-14 dates XV. Radiocarbon, 20(1), pp.68-78.
+
+Alessio, M., Allegri, L., Improta, S., Belluomini, G., Cortesi, C., Manfra, L. and Turi, B., 1991. University of Rome radiocarbon dates XVII. Radiocarbon, 33(1), pp.131-140.
+
+Allegri, L., Cortesi, C. and Radmilli, A.M., 1987. La cronologia neolitica in base al radiocarbonio. Atti della XXVI Riunione Scientifica, 11, pp.67-77.
+
+Ambers, J. and Bowman, S., 1998. Radiocarbon measurements from the British Museum: datelist XXIV. Archaeometry, 40(2), pp.413-435.
+
+Ambers, J. and Bowman, S., 1999. Radiocarbon measurements from the British Museum: datelist XXV. Archaeometry, 41(1), pp.185-195.
+
+Ambers, J., Matthews, K.J. and Bowman, S., 1989. British Museum natural radiocarbon measurements XXI. Radiocarbon, 31(1), pp.15-32.
+
+Ammerman, A., Butler, J., Diamond, G., Menozzi, P. and Pals, J., 1976. Rapporte sugli scavi a Monte Leoni: Un insediamento dell'età del bronzo in Val Parma. Preistoria Alpina Trento, 12, pp.127-154.
+
+Angelucci, D.E. and Bassetti, M., 2009. Humans and their landscape from the Alpine Last Glacial Maximum to the Middle Holocene in Trentino: geoarchaeological considerations. Preistoria Alpina, 44(5), pp.59-78.
+
+Anzidei, P., et al., 2007. L'abitato eneolitico di Osteria del Curato-via Cinquefrondi: nuovi dati sulle facies archeologiche di Laterza e Ortucchio nel territorio di Roma. In: Atti della XL Riunione Scientifica IIPP. Strategie di insediamento fra Lazio meridionale e Campania centro-settentrionale in eta' preistorica e protostorica. Firenze: Istituto Italiano di Preistoria e Protostoria, 477-508.
+
+Anzidei, A.P., Carboni, G., Carboni, L., Castagna, M.A. and Catalano, P., 2011. Il gruppo Roma-Colli Albani della facies di Rinaldone: organizzazione spaziale, rituali e cultura materiale nelle necropoli di Lucrezia Romana e Romanina, Roma. Il gruppo Roma-Colli Albani della facies di Rinaldone: organizzazione spaziale, rituali e cultura materiale nelle necropoli di Lucrezia Romana e Romanina, Roma, pp.297-307.
+
+APRILE, G., INGRAVALLO, E. and TIBERI, I., 2013. Recenti datazioni dalla necropoli di Salve (Lecce) in D. Cocchi Genick (a cura di)“Cronologia Assoluta e relativa dell’età del rame in Italia”(Atti dell’Incontro di Studi (Verona, 25 giugno 2013), Collana “PREISTORIA E PROTOSTORIA”, QuiEdit, Verona.
+
+Aprile, G., Calcagnile, L., Mazzorin, J.D.G., Minniti, C., Montefinese, R., Quarta, G. and Tiberi, I., 2017. Concerning the extinction of the wild horse in Italy and the newly introduction as domesticate: recent evidence from Grotta dei Cervi-Porto Badisco (Otranto, south Italy).
+
+Arena, F., Larocca, F., 2014. La Grotta di Santa Barbara a Polignano a Mare (Bari).Note antropologiche preliminari su resti scheletrici di et? neolitica. Annuali dell'Universita' di Ferrara Museologia Scientifica e Naturalistica 10 (2), 81-84.
+
+Arnoldus-Huyzendveld, A., Turi, P. and Morelli, C., 2015. Il paleoambiente di Monte Giulio e della parte nord-orientale del bacino portuale di Claudio. FOLD&R FastiOnLine documents & research, 324, pp.1-31.
+
+Arobba, D., Panelli, C., Caramiello, R., Gabriele, M. and Maggi, R., 2017. Cereal remains, plant impressions and 14C direct dating from the Neolithic pottery of Arene Candide Cave (Finale Ligure, NW Italy). Journal of Archaeological Science: Reports, 12, pp.395-404.
+
+Azzi, C.M., Bigliocca, L. and Piovan, E., 1973. Florence radiocarbon dates I. Radiocarbon, 15(3), pp.479-487.
+
+Azzi, C.M., Bigliocca, L. and Piovan, E., 1974. Florence radiocarbon dates II. Radiocarbon, 16(1), pp.10-14.
+
+Azzi, C.M. and Gulisano, F., 1979. Florence radiocarbon dates IV. Radiocarbon, 21(3), pp.353-357.
+
+Azzi, C.M., Bigliocca, L. and Piovan, E., 1973. Florence radiocarbon dates I. Radiocarbon, 15(3), pp.479-487.
+
+Azzi, C.M., Bigliocca, L. and Gulisano, F., 1977. Florence radiocarbon dates III. Radiocarbon, 19(2), pp.165-169.
+
+Babbi, A., Peltz, U. and Benelli, E., 2016. La tomba del guerriero di Tarquinia: identita elitaria, concentrazione del potere e networks dinamici nell'avanzato VIII sec. aC. Verlag des Römisch-Germanischen Zentralmuseums;[Schnell+ Steiner.
+
+Bagolini, B. and Biagi, P., 1990. The radiocarbon chronology of the Neolithic and Copper Age of Northern Italy. Oxford Journal of Archaeology, 9(1), pp.1-23.
+
+Balista, C., De Guio, A., Vanzetti, A., Betto, A., De Angeli, G. and Sartor, F., 2006. La fine dell’età del Bronzo ed i processi di degrado dei suoli innescati dai reinsediamenti della prima età del Ferro e dai deterioramenti climatici del sub-Atlantico al margine settentrionale delle Valli Grandi Veronesi (Il caso studio del sito di Perteghelle di Cerea-VR). Padusa, 42, pp.45-127.
+
+Banchieri, D.G., 2009. I laghi prealpini della Lombardia Nord Occidentale (Italia Settentrionale): dati riguardanti aspetti della frequentazione umana durante il Neolitico. Sibrium, 25, pp.2004-09.
+
+Barfield, L.H. and Chelidonio, G., 1993. Indagini stratigrafiche e di superficie nell'area di Ponte di Veja, 1988-90. Annuario Storico della Valpolicella, 9, pp.67-76.
+
+Barfield, L. H., Manning, S. W., Valzogher, E., Higham, T. F. G., 2010. A wiggle-matched date for the Copper Age cemetery at Manerba Del Garda, Northern Italy. Radiocarbon 52, nr 2-3, 984-1001
+
+Baroni, C. and Biagi, P., 1997. Excavations at the high altitude Mesolithic site of Laghetti del Crestoso (Bovegno, Brescia-northern Italy).
+
+Berger, R., and Protsch, R., 1989. UCLA Radiocarbon Dates XI. Radiocarbon 31, 55-67.
+
+Bermingham, A., 1966. Victoria natural radiocarbon measurements I. Radiocarbon, 8, pp.507-521.
+
+Bernabo' Brea, M., Cattani, M., Conversi, R., Cremaschi, M., Nisbet, R. and Ricci, C., 1984. L'insediamento neolitico della Cassa di Risparmio a Travo (Pc). Museo tridentino di scienze natural
+
+BERNABÒ, Brea, M. and Cremaschi, M., 2009. Acqua e civiltà nelle terramare. La vasca votiva di Noceto.
+
+Biagi, P., 2000. The radiocarbon chronology of the Late Neolithic and Copper Age of northern Italy and the first use of metal tools in the region. Studi sul Paleolitico, Mesolitico e Neolitico del bacino dell’Adriatico in ricordo di Antonio M. Radmilli, pp.27-36.
+
+Biagi, P., 2002. Le stazioni preistoriche del Monte guglielmo (gölem) e del Monte Ario in Val Trompia (Brescia). Commentari dell’Ateneo di Brescia, pp.223-249.
+
+
+Biagi, P., 2003. Alcuni problemi concernenti il popolamento preistorico della Valcamonica. BC Notizie. Notiziario del Centro Camuno di Studi Preistorici. Capo di Monte: Edizioni del Centro, pp.12-20.
+
+Biagi P., and Nisbet R. 1987. Ursprung der Landwirtschaft in Norditalien. Zeitschrift für Archäologie 21(1): 11–24.
+
+Biagi, P. and Spataro, M., 2002. The Mesolithic/Neolithic transition in north eastern Italy and in the Adriatic Basin. SAGVNTVM Extra, 5, pp.167-178.
+
+Biagi, P and C. D'Amico. 2013. The Greenstone tools from the middle neolithic sites of Fimon and Villa del Ferro in the Berici hills (Vicenza, Nothern Italy). Atti Soc. Preist. Protost. Friuli-V.G., Trieste, XVIII: 87-105
+
+Biagi P., Castelletti L., Cremaschi M., Sala B., Tozzi C., 1981. Popolazi Castelletti L., Maspero A., Tozzi C., 1994. Il popolamento della valle del Serchio (Toscana settentrionale) durante il Tardi. Naudinot N. JAS 2014. ip. Charcoal.
+
+Biagi, P., Starnini, E. and Voytek, B., 1993. The Late Mesolithic and Early Neolithic settlement of northern Italy: recent considerations.
+
+Biagi, P., Starnini, E., Boric, D. and Mazzucco, N., 2020. Early Neolithic settlement of the Po Plain (northern Italy): Vhò and related sites. Documenta Praehistorica 47, 192-221. 
+
+Bianchin Citton, E. and Martinelli, N., 2005. Cronologia relativa e assoluta di alcuni contesti veneti delletà del bronzo Recente, Finale e degli inizi delletà del Ferro. Nota Preliminare. Bartoloni G., Delpino F.(a cura di), Oriente e Occidente: metodi e discipline a confronto. Riflessioni sulla cronologia delletà del Ferro italiana, Pisa-Roma, pp.239-254.
+
+Bianchin Citton, E., Balista, C., Fontana, A., Martinelli, N. and Mondini, C., 2015. Il sito del Col del Buson (Belluno) nella Valle dell'Ardo: aspetti geomorfologici, strutturali, culturali e paleoeconomici delle stratificazioni dell'Età del rame. In: G. Leonardi and V. Tine' (Eds.),  Preistoria e protostoria del Veneto. Studi di Preistoria e Protostoria 2. Firenze: Istituto italiano di preistoria e protostoria, 157-167. 
+
+Bignon, B., N. Serrand, L.J. Costa, C. Lugliè, 2008. Les restes coulinaires de Cuccuru is Arrius (Oristano, Sardaigne): nouveaux apports à la connaissance des économies néolithiques en domaine litorale, in Bulletin de la Société Préhistorique Française, 105, 4, pp. 773-786.
+
+Binder, D. and Maggi, R., 2001. Le Néolithique ancien de l'arc liguro-provençal. Bulletin de la Société préhistorique française, pp.411-422.
+
+Binder, D., Lanos, P., Angeli, L., Gomart, L., Guilaine, J., Manen, C., Maggi, R., Muntoni, I.M., Panelli, C., Radi, G. and Tozzi, C., 2018. Modelling the earliest north-western dispersal of Mediterranean Impressed Wares: new dates and Bayesian chronological model. Documenta praehistorica., 44, pp.54-77.
+
+Bini, M., Pappalardo, M., Rossi, V., Noti, V., Amorosi, A. and Sarti, G., 2018. Deciphering the effects of human activity on urban areas through morphostratigraphic analysis: The case of Pisa, Northwest Italy. Geoarchaeology, 33(1), pp.43-51.
+
+Boschian, G., Mallegni, F. and Tozzi, C., 1997. The Fredian rock-shelter. An Epigravettian and Mesolithic age site in the Serchio basin (N Tuscany): palaeoecology and cultural and human remains.
+
+Bonani, G., Ivy, S.D., Hajdas, I., Niklaus, T.R. and Suter, M., 1994. AMS 14 C age determinations of tissue, bone and grass samples from the Ötztal Ice Man. Radiocarbon, 36(2), pp.247-250.
+
+Branch, N.P., Black, S., Maggi, R. and Marini, N.A., 2014. The Neolithisation of Liguria (NW Italy): An environmental archaeological and palaeoenvironmental perspective. Environmental Archaeology, 19(3), pp.196-213.
+
+Breunig, P., 1990. 14C-Chronologie des vorderasiatischen, südost-und mitteleuropäischen Neolithikums. Praehistorische Zeitschrift, 65(1), pp.76-78.
+
+Brock, A.L. and Terrenato, N., 2016. Rome in the Bronze Age: late second-millennium BC radiocarbon dates from the Forum Boarium. Antiquity, 90(351), pp.654-664.
+
+Bronk Ramsey, C., Pettitt, P. B., Hedges, R. E. M, Hodgins, G. W. L., and Owen, D. C., 1999. Radiocarbon dates from the Oxford AMS System: archaeometry Datelist 28. Archaeometry, 41(2), pp.421-431.
+
+Bronk Ramsey, C., Higham, T.F., Owen, D.C., Pike, A.W.G. and Hedges, R.E., 2002. Radiocarbon dates from the Oxford AMS system: Archaeometry datelist 31. Archaeometry, 44, pp.1-150.
+
+Bronk Ramsey, C., Higham, T., Brock, F., Baker, D., Ditchfield, P., & Staff, R., 2015. Radiocarbon Dates from the Oxford AMS System: Archaeometry Datelist 35. Archaeometry, 57(1), 177-216.
+
+Brotherton, P., Haak, W., Templeton, J., Brandt, G., Soubrier, J., Adler, C.J., Richards, S.M., Der Sarkissian, C., Ganslmeier, R., Friederich, S. and Dresely, V., 2013. Neolithic mitochondrial haplogroup H genomes and the genetic origins of Europeans. Nature communications, 4(1), pp.1-11.
+
+Brown, K.A. and Alexander, C., 2013. Once is not enough: were there two Neolithic colonisations of Southern Italy? A Bayesian analysis of the radiocarbon evidence. In Rethinking the Italian Neolithic: Proceedings of a Conference Held at the Institute of Archaeology, UCL, London. Accordia, London (pp. 31-56).
+
+Buosi, C., Pittau, P., Paglietti, G., Scanu, G.G., Serra, M., Ucchesu, M. and Tanda, G., 2015. A Human Occupation Cave During the Bronze Age: Archaeological and Palynological Applications of a Case Study in Sardinia (Western Mediterranean). Archaeometry, 57(S1), pp.212-231.
+
+Butalag, K., Demortier, G., Quarta, G., Muscogiuri, D., Maruccio, L., Calcagnile, L., Pagliara, C., Maggiulli, G. and Mazzotta, C., 2005. Checking the homogeneity of gold artefacts of the final bronze age found in Roca Vecchia, Italy by proton induced X-ray emission. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 240(1), pp.565-569.
+
+Calabrisotto, C.S., Fedi, M.E., Taccetti, F., Benvenuti, M., Chiarantini, L. and Quaglia, L., 2009. Radiocarbon Reveals the Age of Two Precious Tombs in the Etruscan Site of Populonia-Baratti (Tuscany). Radiocarbon, 51(3), p.915.
+
+Calcagnile, L., Quarta, G. and D’Elia, M., 2004. High-resolution radiocarbon dating of prehistoric sites in southern Italy. Applied Physics A, 79(2), pp.289-292.
+
+Calcagnile, L., Tinè, V., Quarta, G., D'Elia, M., Fiorentino, G., Scarciglia, F., Robustelli, G., Abate, M., La Russa, M.F. and Pezzino, A., 2010. Chronostratigraphic sequence of Santuario Della Madonna Cave (Calabria, Southern Italy): AMS radiocarbon data from a new excavation area. Radiocarbon, 52(2), pp.408-414.
+
+Calcagnile, L., Sardella, R., Mazzini, I., Giustini, F., Brilli, M., D’Elia, M., Braione, E., Conti, J., Mecozzi, B., Bona, F. and Iurino, D.A., 2019. New Radiocarbon Dating Results from the Upper Paleolithic–Mesolithic Levels in Grotta Romanelli (Apulia, Southern Italy). Radiocarbon, 61(5), pp.1211-1220.
+
+Calderoni, G. and Cazzella, A., 1999. Le datazioni radiometriche ei rapporti cronologici con altri contesti italiani e transadriatici. In: Conelle di Arcevia. Uninsediamento eneolitico nelle Marche. Roma: Gangemi Editore,177-185.
+
+Calderoni, G., Giardini, M., Petitti, P. and Sadori, L., 1996. Le piroghe del Lago di Bolsena: analisi xilologiche e datazioni radiometriche. Plant Biosystem, 130(1), pp.305.
+
+Calligaris, F., Colonnello, S., del Fabbro, A. and Perrone, S., 1991. Udine radiocarbon laboratory date list III. Radiocarbon, 33(1), pp.141-149.
+
+Capelli, C., Cabella, R., Del Lucchese, A., Piazza, M. and Starnini, E., 2008. Archaeometric analyses of Early and Middle Neolithic pottery from the Pian del Ciliegio rock shelter (Finale Ligure, NW Italy). ArcheoSciences. Revue d'archéométrie, (32), pp.115-124.
+
+Capuzzo, G., Boaretto, E. and Barceló, J.A., 2014. EUBAR: A Database of 14 C Measurements for the European Bronze Age. A Bayesian Analysis of 14 C-Dated Archaeological Contexts from Northern Italy and Southern France. Radiocarbon, 56(2), pp.851-869.
+
+Caracuta, V., Fiorentino, G., Turchiano, M. and Volpe, G., 2014. Dating Historical Contexts: Issues, Plant Material, and Methods to Date the Late Roman Site of Faragola, Apulia (SE Italy). Radiocarbon, 56(2), pp.679-690.
+
+Carboni, G., and Anzidei, A.P., 2013. L'Eneolitico recente e finale nel Lazio centro-meridionale: una puntualizzazione sullo sviluppo e la durata di alcuni aspetti culturali sulla base delle pi? recenti datazioni radiometriche. In: D. Cocchi Genick (Ed.), Cronologia assoluta e relativa dell'eta' del Rame in Italia. Atti dell'Incontro di Studi, Universita' di Verona, 25 giugno 2013. Preistoria e Protostoria 1. Verona, QuiEdit, 91-118.
+
+
+Cartocci, A., Fedi, M.E., Taccetti, F., Benvenuti, M., Chiarantini, L. and Guideri, S., 2007. Study of a metallurgical site in Tuscany (Italy) by radiocarbon dating. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 259(1), pp.384-387.
+
+Cattani, L. and Gosetti, C., 2004. Laghetto delle Regole: indagini palinologiche. Preistoria Alpina, 40, pp.27-33.
+
+Cattani, M., 2015. Gli scavi nel settore B dell'abitato dell'Eta' del Bronzo di Mursia (Pantelleria). Ipotesi di Preistoria 7, 1-16.
+
+Cavanna, C. and Pellegrini, E., 2007. La Buca di Spaccasasso: Ricerche 2000–2004. La preistoria nelle grotte del parco naturale della Maremma, pp.117-136.
+
+Chiarantini, L., Benvenuti, M., Costagliola, P., Fedi, M.E., Guideri, S. and Romualdi, A., 2009. Copper production at Baratti (Populonia, southern Tuscany) in the early Etruscan period (9th–8th centuries BC). Journal of Archaeological Science, 36(7), pp.1626-1636 
+
+Cipolloni Sampò, M., Tozzi, C. and Verola, M.L., 1999. Le Néolithique ancien dans le sud-est de la peninsule italienne: catactérisation culturelle, économie, structures d'habitat. In XXIV Congrès Préhistorique de France. Actes du Colloque International: Le Néolit (pp. 13-25).
+
+Colombo, M., 2014. Colle Cera (Loreto Aprutino, Prov. Di Pescara). Notiziario di Preistoria e Protostoria 1(II), 50-52.
+
+Colombo, M., Serradimigni, M. and Tozzi, C., 2008. Un nuovo villaggio della cultura di Catignano: il sito di colle cera presso Loreto Aprutino (Pescara). Origini: Preistoria e protostoria delle civilt? antiche, (30), pp.57-98.
+
+Conati Barbaro, C., La Marca, C. and Silano, C., 2014.  La neolitizzazione delle Marche: nuovi dati e prospettive di ricerca. Picus XXXIV, 77-91.
+
+Conati Barbaro, C., 2017. La sepoltura neolitica di Masseria Valente (Foggia)alla luce della recente datazione C14. Studi di Preistoria e Protostoria 4, 721-725. 
+
+Conti, A.M., Persiani, C. and Petitti, P., 1997. I riti della morte nella necropoli eneolitica della Selvicciola (Ischia di Castro-Viterbo). Origini: Preistoria e protostoria delle civiltà antiche, (21), pp.169-186.
+
+Coppola, D., Pinto, N.D., Pellegrino, M., Baills, H., Stasolla, V., Dewailly, M., Féret, S., Breichner, H., Russo, J. and Bartolomeo, J., 2017. Santa Maria di Agnano (Ostuni, Puglia). Chronique des activités archéologiques de l’École française de Rome.
+
+Corboud, P. and Seppey, V.A., 1991. Les stations littorales préhistoriques du Petit-Lac et la céramique Néolithique moyen de Corsier-Port GE. Archäologie Schweiz, 14(2), pp.181-189.
+
+Corti, P., Martinelli, N., Rottoli, M.A.U.R.O., Tinazzi, O. and Vitri, S., 1997. New data on the wooden structures from the pile-dwelling of Palù di Livenza. Preistoria Alpina, 33, pp.73-80
+
+Craig, O.E., Biazzo, M., Colonese, A.C., Di Giuseppe, Z., Martinez-Labarga, C., Vetro, D.L., Lelli, R., Martini, F. and Rickards, O., 2010. Stable isotope analysis of Late Upper Palaeolithic human and faunal remains from Grotta del Romito (Cosenza), Italy. Journal of Archaeological Science, 37(10), pp.2504-2512.
+
+Craig, O. E., Bondioli, L., Fattore, L., Higham, T., & Hedges, R., 2013. Evaluating marine diets through radiocarbon dating and stable isotope analysis of victims of the AD79 eruption of vesuvius. American Journal of Physical Anthropology, 152(3), 345-352.
+
+Cremaschi, M. and Bernabò Brea, M., 2004. Gli elementi strutturali.
+
+Cremaschi, M., Nicosia, C. and Salvioni, M., 2011. L'uso del suolo nell'Eneolitico e nel Bronzo antico, nuovi dati dalla Pianura Padana centrale. In Atti della XLIII Riunione scientifica (pp. 225-231). Istituto italiano di preistoria e protostoria.
+
+Cremaschi, M., Mercuri, A.M., Torri, P., Florenzano, A., Pizzi, C., Marchesini, M. and Zerboni, A., 2016. Climate change versus land management in the Po Plain (Northern Italy) during the Bronze Age: New insights from the VP/VG sequence of the Terramara Santa Rosa di Poviglio. Quaternary Science Reviews, 136, pp.153-172.
+
+CREPALDI, F., 2001. Le Chasséen en Ligurie. Bulletin de la Société préhistorique française, pp.485-494. 
+
+Crispino, A., and Chilardi, S., 2017. Castelluccio (Noto, SR). Notiziario di Preistoria e Protostoria 4(III), 100-102.
+
+
+Dal Santo, N., Ferrari, A., Morico, G., and Steffe', G., 2014. Bell Beaker in Eastern Emilia (Northern Italy). In: M. Besse (Ed.), Around the Petit-Chasseur Site in Sion (Valais, Switzerland) and New Approaches to the Bell Beaker Culture. Proceedings of the International Conference held at Sion (Switzerland) October 27th – 30th, 2011. Oxford: Archaeopress, 205-236. 
+
+Dalmeri, G., Grimaldi, S. and Lanzinger, M., 2001. Il Paleolitico e il Mesolitico. Storia del Trentino, 1, pp.15-118.
+
+Dalmeri, G., Kompatscher, K., Hrozny Kompatscher, M., Bassetti, M., Cusinato, A. and Piazzi, O., 2004. Dinamiche comportamentali degli ultimi cacciatori raccoglitori in area alpina. Il caso di studio del sito LR3 del Laghetto delle Regole (Castelfondo, Trento). Preistoria Alpina, 40, pp.5-26.
+
+Dauchot-Dehon, M., and Heylen, J., 1971. Institut Royal du Patrimoine Artistique Radiocarbon Dates II. Radiocarbon, 13, pp 29-31
+
+Dauchot-Dehon, M., Van Strydonck, M. and Heylen, J., 1981. Institut Royal du Patrimoine Artistique radiocarbon dates VIII. Radiocarbon, 23(3), pp.345-351.
+
+Dauchot-Dehon, M. and Van Strydonck, M., 1987. Institut Royal Du Patrimoine Artistique Radiocarbon Dates XII. Radiocarbon, 29(2), pp.197-208.
+
+Delpino, M.A.F., Pessina, A. and D'Eugenio, G., 1993. La Marmotta (Anguillara Sabazia, RM): scavi 1989: un abitato perilacustre di età neolitica. Istituto poligrafico e zecca dello Stato.
+
+De Donno, A., Santoro, V., Di Fazio, A., Corrado, S., Urso, D., Baldassarra, S.L., Di Nunno, N. and Introna, F., 2010. Analysis of Neolithic human remains discovered in southern Italy. Journal of Archaeological Science, 37(3), pp.482-487. 
+
+De Marinis, R., 2001. Aspetti della Metallurgia dell'Antica Eta' del Bronzo in Toscana. Atti della XXXIV Riunione Scientifica . Preistoria e Protostoria della Toscana. Firenze: Istituto Italiano di Preistoria e Protostoria, 253-281.
+
+De Marinis, R.C., Rapi, M., Ravazzi, C., Arpenti, E., Deaddis, M. and Perego, R., 2005. Lavagnone (Desenzano del Garda): new excavations and palaeoecology of a Bronze Age pile dwelling site in northern Italy. WES O, 4, pp.221-232.
+
+Depalmas, A., Melis, M.G. and Tanda, G., 1998. La Sardaigne.
+
+DeSantis, C., Siegel, R., Bandi, P. and Jemal, A., 2011. Breast cancer statistics, 2011. CA: a cancer journal for clinicians, 61(6), pp.408-418.
+
+Di Fraia, T., 2016. Notiziario di Preistoria e Protostoria 3(I), 20-22.
+
+Di Maida, G., Mannino, M.A., Krause-Kyora, B., Jensen, T.Z.T. and Talamo, S., 2019. Radiocarbon dating and isotope analysis on the purported Aurignacian skeletal remains from Fontana Nuova (Ragusa, Italy). PloS one, 14(3), p.e0213173.
+
+Djindjian, F., Kozlowski, J. and Otte, M., 1999. Le paléolithique supérieur en Europe. A. Colin..
+
+Dolfini, A. and Peroni, R., 2010. The origins of metallurgy in central Italy: new radiometric evidence. Antiquity, 84(325), pp.707-723.
+
+Elster, E. S., Isetti, E., Robb, J., & Traverso, A., 2016. The Archaeology of Grotta Scaloria: Ritual in Neolithic Southeast Italy. Cotsen Institute Press, University of California.
+
+Evin, J., Marien, G. and Pachiaudi, C., 1979. Lyon natural radiocarbon measurements VIII. Radiocarbon, 21(3), pp.405-452.
+
+Fabbri, C., PETRINELLIPANNOCCHIA, C. and RADI, G., 2011. COLLE SANTO STEFANO DI ORTUCCHIO (AQ). EVOLUZIONE DELLA CERAMICA E DELL'INDUSTRIA LITICA A CONFRONTO. In III convegno di Archeologia (pp. 119-131). DVG Studio.
+
+Facchinetti, L., 2012. Considerazioni sul popolamento dell?Italia Settentrionale nel periodo Neolitico attraverso le datazioni radiometriche al 14 C. Unpublished Dissertation.
+
+Fedi, M.E., Arnoldus-Huyzendveld, A., Cartocci, A., Manetti, M. and Taccetti, F., 2007. Radiocarbon dating in late-Roman and medieval contexts: an archaeological excavation in the Center of Florence, Italy. Radiocarbon, 49(2), pp.611-616.
+
+Felber, H. 1970. Vienna Radium Institute Radiocarbon Dates I. Radiocarbon 12: 298-318.
+
+Felber, H., 1975. Vienna Radium Institute radiocarbon dates VI. Radiocarbon, 17(2), pp.247-254.
+
+Felber, H., 1980. Vienna Radium Institute Radiocarbon Dates X. Radiocarbon, 22(1), pp.108-114.
+
+Fenu, P., Martini, F. and Pitzalis, G., 1999. Gli scavi nella grotta Su Coloru (Sassari): primi risultati e prospettive di recerca. Rivista di scienze preistoriche, (50), pp.165-187.
+
+Fenwick, C. M., 2015. The Medieval Cemetery. University of Leicester. Chapter. https://hdl.handle.net/2381/31472 
+
+Ferrara, G., Reinharz, M. and Tongiorgi, E., 1959. Carbon-14 dating in Pisa. Radiocarbon, 1(1), pp.103-110.
+
+Ferrara, G. et.al. 1961. Carbon-14 Dating in Pisa-II. Radiocarbon 3:99-104.
+
+Festi, D., Tecchiati, U., Steiner, H. and Oeggl, K., 2011. The Late Neolithic settlement of Latsch, Vinschgau, northern Italy: subsistence of a settlement contemporary with the Alpine Iceman, and located in his valley of origin. Vegetation history and archaeobotany, 20(5), p.367.
+
+Fiorentino, G., Caracuta, V., Volpe, G., Turchiano, M., Quarta, G., D’Elia, M. and Calcagnile, L., 2010. The first millennium AD climate fluctuations in the Tavoliere Plain (Apulia, Italy): New preliminary data from the 14C AMS-dated plant remains from the archaeological site of Faragola. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 268(7-8), pp.1084-1087.
+
+Fiorentino, G., Caldara, M., De Santis, V., D’Oronzo, C., Muntoni, I.M., Simone, O., Primavera, M. and Radina, F., 2013. Climate changes and human–environment interactions in the Apulia region of southeastern Italy during the Neolithic period. The Holocene, 23(9), pp.1297-1316.
+
+FONTANA, F. and GUERRESCHI, A., 1998. The Mesolithic mountain camp-site of Mondeval de Sora. In XIII International UISPP Congress (Vol. 3, pp. 55-62). ABACO.
+
+Fontana, F. and Visentin, D., 2016. Between the Venetian Alps and the Emilian Apennines (Northern Italy): Highland vs. lowland occupation in the early Mesolithic. Quaternary International, 423, pp.266-278.
+
+Fontana, F., Flor, E. and Duches, R., 2016. Technological continuity and discontinuity in the Romagnano Loc III rock shelter (NE Italy) Mesolithic series. Quaternary International, 423, pp.252-265.
+
+Forenbaher, S. and Miracle, P.T., 2005. The spread of farming in the Eastern Adriatic. Antiquity, 79(305), p.514.
+
+Forgia, V., Martín, P., López-García, J.M., Ollé, A., Vergès, J.M., Allué, E., Angelucci, D.E., Arnone, M., Blain, H.A., Burjachs, F. and Expósito, I., 2013. New data on Sicilian prehistoric and historic evolution in a mountain context, Vallone Inferno (Scillato, Italy). Comptes Rendus Palevol, 12(2), pp.115-126. 
+
+Formicola, V., Pettitt, P.B., Maggi, R. and Hedges, R., 2005. Tempo and mode of formation of the Late Epigravettian necropolis of Arene Candide cave (Italy): direct radiocarbon evidence. Journal of Archaeological Science, 32(11), pp.1598-1602.
+
+Fozzati, L., Bressan, F., Martinelli, N. and Valzolgher, E., 2006. Underwater archaeology and prehistoric settlement in a great alpine lake: the case study of Lake Garda. Die neue Sicht. Une nouvelle interprétation de l'histoire. The new view. Unterwasserarchäologie und Geschichtsbild. L'apport de l'archéologie subaquatique. Underwater Archaeology and the Historical Picture. Akten des, 2, pp.78-87.
+
+Frontini, P., 2001. Castellaro del Vhò. Campagne di scavo 1996-1999.
+
+Fulcheri, E., Hua, Q. and Cremasco, M.M., 2001. The Copper Age in Northern Italy. RADIOCARBON, 43(2B), pp.1049-1055.
+
+Gabriele, M. and Boschian, G., 2009. Neolithic pottery from Pianosa Island (Tyrrhenian Sea); preliminary provenance data. The Old Potter's Almanack, 14(1), pp.8-14.
+
+Gabriele, M. and Tozzi, C., 2017. Analisi tecnologica delle ceramiche del Neolitico antico dellaValle del Serchio (Toscana settentrionale) e loro rapporticon le ceramiche della Liguria e del versante emiliano dell'Appennino. In: M. Bernabo' Brea (Ed.),  Preistoria e protostoria dell'Emilia Romagna - I. Studi di Preistoria e Protostoria 3. Firenze: Istituto italiano di preistoria e protostoria, 193-200.  
+
+Gelichi, S., Librenti, M. and Marchesini, M., 2014. Un villaggio nella pianura. Ricerche archeologiche in un insediamento medievale del territorio di Sant’Agata Bolognese.
+
+Geniola, A., Laviano, R. and Muntoni, I.M., 2005. Pottery Production in Late Neolithic Cult Sites of Santa Barbara and Cala Scizzo (Apulia, Southeast Italy). In Understanding people through their pottery. Proceedings of the 7th European Meeting on Ancient Ceramics. Instituto Português de Arqueologia, Lisbon (pp. 89-101).
+
+Geyh, M. A., 1967. Hannover Radiocarbon Maesurements V. Radiocarbon 9, 218-236.
+
+Giannitrapani, E., 2012. Aspetti culturali e dinamiche del popolamento di età preistorica della provincia di Enna. In S. Lo Pinzino and F. Caffo (eds) 2012, 1-37.
+
+Giannitrapani, E., Iannì, F., Chilardi, S. and Anguilano, L., 2017. Case Bastione: a prehistoric settlement in the Erei uplands (central Sicily). Origini-XXXVI: Preistoria e protostoria delle civiltà antiche-Prehistory and protohistory of ancient civilizations, p.181.
+
+Gilot, E., 1967. Louvain Natural Radiocarbon Measurements V. Radiocarbon 9, 295-300.
+
+Gilot, E., 1970. Louvain Natural Radiocarbon Measurements VIII. Radiocarbon, 12, pp 156-160 doi:10.1017/S0033822200036249
+
+Gilot, E. and Capron, P.C., 1971. Louvain natural radiocarbon measurements XI. Radiocarbon, 13(2), pp.358-362.
+
+Grifoni Cremonesi, R., 2001. Le Néolithique ancien de Toscane et de l'Archipel toscan. Bulletin de la Société préhistorique française, pp.423-430.
+
+Grifoni Cremonesi, R., 2003. La Grotta Continenza di Trasacco: note sui livelli epigravettiani. Atti della XXXVI riunione scientifica: prehistoria e protostoria dell'Abruzzo, pp.81-89.
+
+Grifoni Cremonesi, R. and Radi, G., 2014. Du Mésolithique au Néolithique ancien en Italie centrale et méridionale. In Transitions en Méditerranée, ou comment des chasseurs devinrent agriculteurs (pp. 243-267). Editions Errance.
+
+Grifoni Cremonesi, R., Iacopini, A., Tarantini, M., Bisconti, M., Carnevale, G. and Marcolini, F., 2002. Analisi informatizzata di una paleosuperficie epigravettiana della Grotta Continenza (Trasacco-AQ).
+
+Gobbo 2010. Archeobotanica di siti mesolitici, neolitici ed eneolitici di pianura dell'Emilia Romagna (PhD thesis)
+
+Gohlisch, T. H., 2020.  Die Keramik und die Befunde der endneolithischen Siedlung Dietfurt a.d. Altmühl. Dissertation Erlangen-Nürnberg 2000, im Druck. 
+
+Goiran, J.P., Salomon, F., Tronchère, H., Djerbi, H., Carbonel, P., Ognard, C. and Oberlin, C., 2011. Géoarchéologie des ports de Claude et de Trajan, Portus, delta du Tibre. Mélanges de l'École française de Rome-Antiquité, (123-1), pp.157-236.
+
+Goiran, J.P., Salomon, F., Bukowiecki, É. and Boetto, G., 2012. Portus. Relations entre des carottages dans les bassins et sur les structures portuaires (Secteur des Grandi Magazzini, de la Darsena et du chenal d’accès). Chronique des activités archéologiques de l’École française de Rome.
+
+Goiran, J.P., Salomon, F., Mazzini, I., Bravard, J.P., Pleuger, E., Vittori, C., Boetto, G., Christiansen, J., Arnaud, P., Pellegrino, A. and Pepe, C., 2014. Geoarchaeology confirms location of the ancient harbour basin of Ostia (Italy). Journal of Archaeological Science, 41, pp.389-398.
+
+Gowlett, J.A., Hedges, R.E., Law, I.A. and Perry, C., 1987. Radiocarbon dates from the Oxford AMS system: Archaeometry datelist 5. Archaeometry, 29(pt. 1), pp.125-155.
+
+Grimaldi, S., 2006. Radiocarbon dating of the early Mesolithic Colbricon site (north-eastern Italian Alps). Journal of Anthropological Sciences, 84, pp.137-145.
+
+Gualtieri, S., Fabbri, B. and Bandini, G., 2006. LE CLASSI CERAMICHE. SITUAZIONE DEGLI STUDI. Atti della 10a Giornata di Archeometria della Ceramica, 5, p.7.
+
+Haas, J.N., 1996. Pollen and plant macrofossil evidence of vegetation change-at Wallisellen-Langachermoos (Switzerland)-during the Mesolithic-Neolithic transition-8500 to 6500 years ago.
+
+Hadler, H., Vött, A., Fischer, P., Ludwig, S., Heinzelmann, M. and Rohn, C., 2015. Temple-complex post-dates tsunami deposits found in the ancient harbour basin of Ostia (Rome, Italy). Journal of Archaeological Science, 61, pp.78-89.
+
+Hedges, R.E.M., Housley, R.A., LAW, I.A., Perry, C. and Hendy, E., 1988. Radiocarbon dates from the Oxford AMS system Archaeometry datelist 8. Archaeometry, 30(2), pp.291-305.
+
+Hedges, R.E., Housley, R.A., Law, I.A. and Bronk, C.R., 1990. Radiocarbon dates from the Oxford AMS system: Archaeometry datelist 10. Archaeometry, 32(1), pp.101-108.
+
+Hedges, R.E., Housley, R.A., Bronk, C.R. and van Klinken, G.J., 1992. Radiocarbon dates from the Oxford AMS system: Archaeometry datelist 15. Archaeometry, 34(pt. 2), pp.337-357.
+
+Hedges, R.E., Housley, R.A., Ramsey, C.B. and Van Klinken, G.J., 1993. Radiocarbon dates from the Oxford AMS system: Archaeometry datelist 17. Archaeometry, 35(pt. 2), pp.305-326.
+
+Hedges, R.E.M., Housley, R.A., Ramsey, C.B. and Van Klinken, G.J., 1995. Radiocarbon dates from the Oxford AMS system: archaeometry datelist 19. Archaeometry, 37(1), pp.195-214.
+
+Hedges, R.E.M., Pettitt, P.B., Ramsey, C.B. and Van Klinken, G.J., 1998. Radiocarbon dates from the Oxford AMS system: Archaeometry datelist 26. Archaeometry, 40(2), pp.437-455.
+
+ Heiss, A.G., Weizen, Linsen, Opferbrote, 2008. – Archäobotanische Analysen bronze‐ und eisenzeitlicher Brandopferplätze im mittleren Alpenraum. 
+
+Higham, T. F. G., Bronk Ramsey, C., Brock, F., Baker, D., & Ditchfield, P., 2007. Radiocarbon dates from the oxford ams system: archaeometry datelist 32. Archaeometry, 49(S1), 1-60.
+
+Hofmeijer, G.K., Sondaar, P.Y., Alderliesten, C., Van Der Borg, K. and De Jong, A.F.M., 1987. Indications of Pleistocene man on Sardinia. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 29(1-2), pp.166-168.
+
+Holt, B.M. and Formicola, V., 2008. Hunters of the Ice Age: the biology of Upper Paleolithic people. American Journal of Physical Anthropology: The Official Publication of the American Association of Physical Anthropologists, 137(S47), pp.70-99.
+
+Jung, R., Weninger, B. and Meller, H., 2015. Archaeological and Environmental Impact of the 4.2 ka cal BP Event in the Central and Eastern Mediterranean. 2200 BC—Ein Klimasturz als Ursache für den Zerfall der Alten Welt? 7. Mitteldeutscher Archäologentag vom 23. Bis 26. Oktober 2014 in Halle (Saale), pp.205-234.
+
+Ialongo, N., Schiappelli, A., Boninu, A. and Vanzetti, A., 2012. La sequenza ceramica e strutturale del villaggio del nuraghe Tres Nuraghes di Bonorva, SS. In:  Atti della XLIV Riunione scientifica: la preistoria e la protostoria della Sardegna: Cagliari, Barumini, Sassari 23-28 novembre 2009, vol. 2-3: Comunicazioni; vol. 4: Posters. (pp. 717-723). Istituto italiano di preistoria e protostoria.
+
+Improta, S. and Pessina, A., 1998. La neolitizzazione dell’Italia settentrionale. Il nuovo quadro cronologico. Pessina A. & Muscio G.(a cura di), pp.107-115.
+
+Iovino, M.R., Maniscalco, L., Pappalardo, G., Pappalardo, L., Puglisi, D., Rizzo, F. and Romano, F.P., 2008. Archaeological volcanic glass from the site of Rocchicella (Sicily, Italy). Archaeometry, 50(3), pp.474-494.
+
+Ippolito, F., 2016. Late Eneolithic and Early Bronze Age funerary evidence from the Sant'Angelo IV Cave (northeastern Calabria, Italy). Palaeohistoria, 58, pp.111-116.
+
+Keller, R.P., Leva, M.B., Menotti, E.M., Roffia, E., Pacchieni, T., Baioni, M., Martinelli, N., Ruggiero, M.G. and Bocchio, G., 2005. Siti d’ambiente umido della Lombardia: rilettura di vecchi dati e nuove ricerche. WES, 4, pp.233-250.
+
+Kozlowski, S.K., Dalmeri, G. and BASSETTI, M., 2000. Riparo Gaban: the mesolithic layers. Preistoria alpina, 36, pp.3-42.
+
+Kutschera, W., Golser, R., Priller, A., Rom, W., Steier, P., Wild, E., Arnold, M., Tisnerat-Laborde, N., Possnert, G., Bortenschlager, S. and Oeggl, K., 2000. Radiocarbon dating of equipment from the Iceman. In The Iceman and his Natural Environment (pp. 1-9). Springer, Vienna.
+
+Lai, L., 2008. The interplay of economic, climatic and cultural change investigated through isotopic analyses of bone tissue: the case of Sardinia 4000-1900 BC.
+
+Lai, L., Fonzo, O., Usai, E., Mecida, L., Tykot, R.H., Goddard, E., Hollander, D.B. and Tanda, G., 2017. Diet and ritual in the western Mediterranean Copper Age: human and animal stable isotopes from the collective burial at S. Caterina di Pittinuri (Sardinia, ltaly). In Current Approaches to Collective Burials in the Late European Prehistory: Procedings of the XVII UISPP World Congress (1-7 Septembre 2014, Burgos, Spain) (pp. 67-78). Archaeopress.
+
+Lanting, J.N. and van der Pflicht, 1999/2000. De 14 C-chronologie van de Nederlandse pre en protohistorie, III: Neolithicum. Palaeohistoria 41/42 (Groningen 1999/2000),
+
+Lawn, B., 1970. University of Pennsylvania Radiocarbon Dates XIII. Radiocarbon 12 (2), 577-589.
+
+Lawn, B., 1973. University of Pennsylvania radiocarbon dates XV. Radiocarbon, 15(2), pp.367-381.
+
+Linstädter, J., 2004. Zum Frühneolithikum des westlichen Mittelmeerraums: die Keramik der Fundstelle Hassi Ouenzga. Linden Soft.
+
+Livadie, C. A., 2007. L'eta' del Bronzo antico e medio nella Campania nord-occidentale. In Atti della XL Riunione Scientifica: Strategie di Insediamento fra Lazio e Campania in Et? Preistorica e Protostorica: Roma, Napoli, Pompei, 30 Novembre?3 Dicembre 2005: Dedicati ad Amilcare Bietti (pp. 179-203). Istituto Italiano di Preistoria e Protostoria Firenze.
+
+Livadie, C.A., Pearce, M., Delle Donne, M. and Pizzano, N., 2019. The effects of the Avellino Pumice eruption on the population of the Early Bronze age Campanian plain (Southern Italy). Quaternary International, 499, pp.205-220.
+
+Lugliè, C., 2009. Il neolitico antico. Il Neolitico Antico, pp.37-47.
+
+Lugliè, C., 2018. Your path led trough the sea… the emergence of Neolithic in Sardinia and Corsica. Quaternary International, 470, pp.285-300.
+
+Maffi, M., 2014. Il Neolitico Recente Emiliano (NRE): proposta di definizione. Rivista di scienze preistoriche, 64(64), pp.25-55.
+
+Maffi, M. and Tirabassi, I., 2013. Il sito Neolitico di S. Ilario d'Enza (Reggio Emilia): scavi Monaco-Bernardi. Il sito Neolitico di S. Ilario d'Enza (Reggio Emilia): scavi Monaco-Bernardi, pp.39-76.
+
+Maggi, R., 1977. Lo strato a ceramiche graffite delle Arene Candide in Le ceramiche graffite nel neolitico del Mediterraneo centro-occidentale. Genova/20-24 gennaio 1977. Preistoria Alpina Trento, 13, pp.205-211.
+
+Maggi, R., Starnini, E. and BA, V., 1997. Arene Candide: a functional and environmental assessment of the Holocene sequence excavated by L. Bernabò Brea (1940-50) (Vol. 5). Il calamo.
+
+Maggi, R. and Pearce, M., 2005. Mid fourth-millennium copper mining in Liguria, north-west Italy: the earliest known copper mines in Western Europe. Antiquity, 79(303), pp.66-77.
+
+Maggi, R., and Pearce, M., 2013. Cronolgia Mineraria in Liguria. In: Genick, D. C. (ed.), Cronologia Assoluta e Relativa dell'Eta' del Rame in Italia. Atti dell'Incontro di Studi Universita' di Verona, 25 giugno 2013. Verona: QuiEdit, 5-15.
+
+Maggi, R., Melli, P., Macphail, R.I., Cruise, G.M. and Nisbet, R., 1985. Note sugli scavi del Castellaro di Uscio (GE), 1981-1985. Preistoria alpina, 21, pp.59-83.
+
+Magnani, G., Bartolomei, P., Teresa, L., Marino, E.C. and Govon, G.C., 2006. ENEA radiocarbon measurements I. Radiocarbon, 48(1), pp.167-175.
+
+Malaguti, C., Marchesini, M., CASAGRANDE, L., COBIANCHI, V., GOBBO, I., MARVELLI, S., MURA, L. and RIZZOLI, E., 2011. Il pozzo di Badia Polesine (Rovigo). Archeologia e tecnica dei pozzi per acqua dalla pre-protostoria all’età moderna, pp.85-114.
+
+Malone, C., Stoddart, S., Barker, G., Clark, G., Coltorti, M., Costantini, L., Giorgi, J., Harding, J., Hunt, C., Reynolds, T. and Skeates, R., 1992. The neolithic site of San Marco, Gubbio (Perugia), Umbria: survey and excavation 1985-7. Papers of the British School at Rome, pp.1-69.
+
+Manen, C. and Sabatier, P., 2003. Chronique radiocarbone de la néolithisation en Méditerranée nord-occidentale. Bulletin de la Société préhistorique française, pp.479-504.
+
+Manfredini, A., Fugazzola Delpino, M.A., Sarti, L., Silvestrini, M. and Martini, F., 2009. Adriatico e Tirreno a confronto: analisi dell'occupazione territoriale tra il Neolitico finale e l'età del Rame in alcune aree campione dell'Italia centrale. Rivista di scienze preistoriche, 59(59), pp.115-179.
+
+Manfredini, A., 2012. La cronologia dell'Eneolitico del Tirreno centrale alla luce delle recenti datazioni radiometriche. In: N. Negroni Catacchio (ed.), Preistoria e Protostoria in Etruria. L'Etruria dal Paleolitico al Primo Ferro. Atti del Decimo Incontro di Studi. Milano: Centro di Studi di Preistoria e Protostoria e Archeologia, 275-281.
+
+Mannino, M.A. and Thomas, K.D., 2007. New radiocarbon dates for hunter-gatherers and early farmers in Sicily. Accordia Research Papers, 10, pp.13-34.
+
+Mannino, M.A., Catalano, G., Talamo, S., Mannino, G., Di Salvo, R., Schimmenti, V., Lalueza-Fox, C., Messina, A., Petruso, D., Caramelli, D. and Richards, M.P., 2012. Origin and diet of the prehistoric hunter-gatherers on the Mediterranean island of Favignana (Ègadi Islands, Sicily). PLoS One, 7(11), p.e49802.
+
+Mariani, G.S., Muntoni, I.M. and Zerboni, A., 2020. The Eneolithic/Bronze Age Transition at Tegole di Bovino (Apulia): Geoarchaeological Evidence of Climate Change and Land-Use Shift. Quaternary, 3(2), p.14.
+
+Marino, S., 2020. Across the Strait. New evidence on cultural interconnections and exchanges between Calabria and Sicily during the early Bronze Age. Journal of Archaeological Science: Reports, 29, p.102164.
+
+Martinelli, N., 2009. Le datazioni radiometriche col 14C dei carboninelle preparazioni pavimentali e nel rivestimento idraulico. In: J. Bonetto, G. Falezza, and A. R. Ghiotto (Eds.), Nora. Il Foro Romano. Volume II.2 - I Materiali Romani e gli altri interpreti. Roma: Edizioni Quasar, 921-923.
+
+Martinelli, M.C., Cannizzaro, F. and Gusmano, M., 2014. Considerazioni sulla facies di Malpasso nella cuspide orientale della Sicilia e nelle isole Eolie. Rivista di scienze preistoriche, 64(64), pp.151-192
+
+Martini, F. and Tozzi, C., 1996. Il Mesolitico in Italia centro-meridionale, in: Kozlowski SK, Tozzi C.(Eds.) (pp. 47-58). ABACO.
+
+Marzatico, F. and TECCIDATI, U., 1998. The Bronze Age in Trentino and Alto Adige/SiidTirol. Preistoria Alpina, 34.
+
+
+Mazzieri, P., 2012. Nuovi dati per una rilettura della cultura VBQ in Emilia occidentale. Rivista di scienze preistoriche 62, 83-120. 
+
+Mazzucco, et al. 2016. Reconstructing Harvesting Technologies through the Analysis of Sickle Blades: A Case-Study from Early-Middle Neolithic Sites in Northeastern Italy. Lithic Technology41: 75-92.
+
+Mazzucco, N., Capuzzo, G., Pannocchia, C.P., Ibáñez, J.J. and Gibaja, J.F., 2018. Harvesting tools and the spread of the Neolithic into the Central-Western Mediterranean area. Quaternary International, 470, pp.511-528. 
+
+McConnell, B. (Ed.), 1995. La Muculufa II. Excavation and survey 1988-1991. The Castelluccian village and other areas. Collège Erasme, Louvain-la-Neuve: Art and Archaeology Publications.
+
+Melis, M.G., Quarta, G., Calcagnile, L. and d'Elia, M., 2007. L'inizio dell'età del Rame in Sardegna: nuovi contributi cronologici. L'inizio dell'età del Rame in Sardegna: nuovi contributi cronologici, pp.185-200.
+
+Melis, M.G., 2013. Problemi di cronologia insulare. La Sardegna tra il IV e il III millennio BC. D. COCCHI GENICK (a cura di), Cronologia assoluta e relativa dell’età del Rame in Italia, Atti dell’Incontro di Studi Università di Verona (25 giugno 2013), 1, pp.197-211. 
+
+Miari, M., and Benazzi, S., 2017. La necropoli di Gattolino di Cesena (Forlì-Cesena): nuovi spunti di riflessione. Incontri Annuali di Preistoria e Protostoria 5, 11-14.
+
+Milliken S., 1998. Oxford Journal of Archaeology 17: 269-287. 
+
+Modi, A., Tassi, F., Susca, R.R., Vai, S., Rizzi, E., De Bellis, G., Lugliè, C., Fortes, G.G., Lari, M., Barbujani, G. and Caramelli, D., 2017. Complete mitochondrial sequences from Mesolithic Sardinia. Scientific reports, 7, p.42869.
+
+Moe, et al. 2007. Vegetational changes and human presence in the low-alpine and subalpine zone in Val Febbraro, upper Valle di Spluga (Italian central Alps), from the Neolithic to the Roman period. Veget Hist Archaeobot 16: 431-451
+
+Montoya, C., 2004. Les traditions techniques lithiques à l'Epigravettien: analyses de séries du Tardiglaciaire entre Alpes et Méditerranée, Thèse, Université Aix-Marseille I.(in French).
+
+Moroni Lanfredini, A., and Benvenuti, M., 19, 2010. Alta Valtiberina Toscana. Preistoria e Protostoroa di un territorio. Le Ricerche, gli Aspetti Culturali, il Paleoambiente. Ipotesi di Preistoria 3, 1-26.
+
+Morter, J. and Robb, J., 2010. The Chora of Croton 1: The Neolithic Settlement at Capo Alfiere (Vol. 1). University of Texas Press.
+
+Mottes, E., Petrucci, G., Rottoli, M. and Visentini, P., 2009. Evolution of the Square Mouthed Pottery culture in Trentino-Alto Adige, Veneto and Friuli: cultural, chronological, palaeoeconomic and environmental aspects. Gortania, 31(97), p.e124.
+
+Muntoni, I.M. and Tarantini, M., 2011. La cronologia delle miniere di selce del Gargano nel quadro della Preistoria recente dell'Italia sud-orientale. La cronologia delle miniere di selce del Gargano nel quadro della Preistoria recente dell'Italia sud-orientale, pp.41-49.
+
+Muntoni, I. M., Radina, F., Martinelli, M. C., and Lemorini, C., 2017. Abitati e produzioni nella Bassa Murgia barese nel Neolitico antico e medio: le ricerche negli insediamenti neolitici del Pulo di Molfetta e di Balsignano. Studi di Preistoria e Protostoria 4, 261-275. 
+
+Mussi, M., 1992. Popoli e civilta dell'Italia antica 10: il Paleolitico e il Mesolitico in Italia, Bologna: Stilus BSP (Bologna 1992). 
+
+Mussi, M. and Peresani, M., 2011. Human settlement of Italy during the Younger Dryas. Quaternary international, 242(2), pp.360-370.
+
+J. Müller, 1991. Die ostadriatische Impresso-Kultur: zeitliche Einordnung und kulturelle Einbindung. Germania 69. (2), 311-358. 
+
+Müller, J., Becker, C., Bruchhaus, H., Kaiser, E. and Neubert, A., 1999. Radiokarbonchronologie-Keramiktechnologie-Osteologie-Anthropologie-Raumanalysen: Beiträge zum Neolithikum und zur Frühbronzezeit im Mittelelbe-Saale-Gebiet. Bericht der Römisch-Germanischen Kommission, 80, pp.25-211.
+
+Müller, J., van Willigen, S. and Nicolis, F., 2001. New radiocarbon evidence for European Bell Beakers and the consequences for the diffusion of the Bell Beaker phenomenon. Bell Beakers today: pottery, people, culture, symbols in prehistoric Europe, 1, pp.59-80.
+
+Natali, E., 2014. The earliest pottery in Italy: a technological approach to impressed decoration during the Archaic Phase. The Old Potter's Almanack, 19(2), pp.2-13.
+
+Natali, E. and Forgia, V., 2018. The beginning of the Neolithic in Southern Italy and Sicily. Quaternary International, 470, pp.253-269.
+
+Naudinot, N., Tomasso, A., Tozzi, C. and Peresani, M., 2014. Changes in mobility patterns as a factor of 14C date density variation in the Late Epigravettian of Northern Italy and Southeastern France. Journal of Archaeological Science, 52, pp.578-590. 
+
+Negroni Catacchio, N., Pacciani, E., Albertini, E., Aspesi, M. and Moggi-Cecchi, J., 2014. Nuovi dati su alcune necropoli rinaldoniane: revisione di vecchi scavi, nuove datazioni e recenti analisi dei resti scheletrici. Rivista di scienze preistoriche, 64(64), pp.83-113.
+
+Negroni Catacchio, N., and Aspesi, M., 2013. La cronologia di Rinaldone: lo stato della questione e le nuove datazioni. In: D. Cocchi Genick (ed.), Cronologia assoluta e relativa dell'eta' del Rame in Italia. Verona:QuiEdit, 81-89.
+
+Nijboer, A.J, Van Der Plicht, J, Betti Sestieri, A.M., De Santis, A. 2000. A high chronology for the early Iron Age in central Italy. Palaeohistoria. Institute of Archaeology. A.A. Balkema Publishers. pp.163 - 181.
+
+Nijboer, A.J., van der Plicht, J., Brandherm, D. and Trachsel, M., 2008. The Iron Age in the Mediterranean: recent radiocarbon research at the University of Groningen. A new dawn for the Dark Age, pp.103-18.
+
+Nisbet, R., Biagi, P. and Baroni, C., 1987. Balm'Chanto: un riparo sottoroccia dell'età del rame nelle Alpi Cozie. Museo Civico Archeologico" Giovio": Ed. New Press.
+
+Olsson, I.U. and Kilicci, S., 1964. Uppsala natural radiocarbon measurements IV. Radiocarbon, 6(1), pp.291-307.
+
+Pagnotta, S., 2013. Studi di Archeologia Preistorica e Archeometria sulle ceramiche del sito Neolitico di Settefonti, Prata d'Ansidonia (AQ). Unpublished MA dissertation. Pisa: University of Pisa.
+
+Palma Di Cesnola, A., 1996. Le Paléolithique inférieur et moyen en Italie.
+
+Pacciarelli, M., 2011. L´ Eneolitico della Calabria Tirrenica: Nuovi dati sull´ articolazione cronocultrale. Origini: Preistoria e protostoria delle civiltà antiche, (33), pp.249-288. 
+
+Pacciarelli, M.,Scarano, T., and Crispino,A., 2015. The transition between the Copper and Bronze Ages in southern Italy and Sicily. In: HARALD MELLER/H. W. ARZ/REINHARD JUNG/ROBERTO RISCH (Hrsg.), 2200 BC - Ein Klimasturz als Ursache für den Zerfall der Alten Welt? 7. Mitteldeutscher Archäologentag vom 23. bis 26. Oktober 2014 in Halle (Saale). Tagungsberichte des Landesmuseums für Vorgeschichte Halle 12 (Halle (Ssaale) 2015) 253-281. 
+
+Padovan, S., Salzani, P. and Venturino Gambari, M., 2004. Casalnoceto, loc. Cascina cascinetta (1993). Alla Conquista dell’Appennino. Le prime comunita delle valli Curone, Grue e Ossona. Omega edizioni, Torino, pp.135-146.
+
+Pandolfi, L., Mannino, M.A., Talamo, S., Salari, L., Sansò, P., Sublimi Saponetti, S., Vacca, E., Vicari, D., Richards, M.P. and Petronio, C., 2017. A reassessment of the infills and faunal assemblages of karst cavities known as ventarole in Salento (Apulia, Southern Italy): A multidisciplinary investigation on Cava Donno (Corigliano d'Otranto, Lecce). Alpine and Mediterranean Quaternary, 30(1), pp.25-40.
+
+Passariello, I., Talamo, P., D'Onofrio, A., Barta, P., Lubritto, C. and Terrasi, F., 2010. Contribution of radiocarbon dating to the chronology of Eneolithic in Campania (Italy). Geochronometria, 35(1), pp.25-33.
+
+
+Paulsson, B. 2017. Time and Stone, The Emergence and Development of Megaliths and Megalithic Societies in Europe (Archaeopress)
+
+Pearce, M., 2013a. Radiocarbon chronology for the spread of the early Neolithic north through the Tyrrhenian and Ligurian Seas area. In Rethinking the North Italian Early Neolithic (pp. 21-84). Accordia Research Insititute London. Accordia Research Papers 12 (2009-12): 41-55
+
+Pearce, M., 2013b. The absolute chronology of site IV at Terrina (Aléria, Haute-Corse) and early metallurgy on Corsica and Sardinia
+
+Pearce, M., 2015. The spread of early copper mining and metallurgy in Europe: an assessment of the diffusionist model: a keynote lecture. In: HAUPTMANN, A. and MODARESSI-TEHRANI, D, eds., Archaeometallurgy in Europe III: Proceedings of the 3rd International Conference, Deutsches Bergbau-Museum Bochum, June 29 – July 1, 2011 Deutsches Bergbau-Museum. 45-54
+
+Peska, J, 2011. Neue absolute Datierung aus dem späten Äneolithikum Mährens. Offa 63/64 (2011). 7-44. 
+
+Pessina, A. and Rottoli, M., 1996. New evidence on the earliest farming cultures in northern Italy: archaeological and palaeobotanical data. Porocilo o raziskovanju paleolitika, neolitika in eneolitika v Sloveniji, 23, pp.77-103.
+
+Pessina, A. and RADI, G., 2002. L'aspetto di Fossacesia e il Neolitico recente dell'Italia centroadriatica. In Il declino del mondo neolitico. Ricerche in Italia centro-settentrionale fra aspetti peninsulari, occidentali e nord-alpini. (pp. 139-156). Museo Archeologico del Friuli Occidentale.
+
+Pétrequin, P., Errera, M., Pétrequin, A.M. and Allard, P., 2006. The Neolithic quarries of Mont Viso, Piedmont, Italy: initial radiocarbon dates. European Journal of Archaeology, 9(1), pp.7-30.
+
+Pétrequin, P. and Pétrequin, A.M., 2012. Chronologie et organisation de la production dans le massif du Mont Viso. Jade. Grandes haches alpines du Néolithique européen. Ve et IVe millénaires av. J.-C. Presses Universitaires de Franche-Comté, Besançon, pp.214-257.
+
+Pignocchi, G. and Silvestrini, M., 2016. Le fasi neolitica ed eneolitica di Moscano di Fabriano (AN). IpoTESI di Preistoria, 8(1), pp.1-26. 
+
+Pinhasi, R., Fort, J. and Ammerman, A.J., 2005. Tracing the origin and spread of agriculture in Europe. PLoS Biol, 3(12), p.e410.
+
+Pini, R., Castellano, L., Perego, R., Ravazzi, C., and Rizzi, A., 2016. Un insediamento perilacustre del Tardo Neolitico ? Et? del Rame a Fimon Le Fratte.Successione sedimentaria, stratigrafia pollinica e macroresti vegetali. In: E. Bianchin Citton (Ed.), Nuove ricerche nelle Valli di Fimon. Il sito del tardo Neolitico de Le Fratte di Arcugnano. Vicenza: Provincia di Vicenza, 169-194.
+
+Pluciennik, M., 1998. Radiocarbon determinations and the mesolithic-neolithic transition in southern Italy. Journal of mediterranean archaeology, 10(2), pp.115-150.
+
+Quaderni della Soprintendenza Archeologica del Piemonte 23, 182-224, 2008.
+
+Quarta, G., D Elia, M., Ingravallo, E., Tiberi, I. and Calcagnile, L., 2005. The Neolithic site of Serra Cicora: results of the AMS radiocarbon dating. Radiocarbon, 47(2), p.207.
+
+Quarta, G., Larocca, F., D'Elia, M., Gaballo, V., Macchia, M., Palestra, G. and Calcagnile, L., 2013. Radiocarbon Dating the Exploitation Phases of the Grotta della Monaca Cave in Calabria, Southern Italy: A Prehistoric Mine for the Extraction of Iron and Copper. Radiocarbon, 55(2ﾖ3), pp.1246-1251.
+
+Quarta, G., Tiberi, I., Rossi, M., Aprile, G., Braione, E., D'Elia, M., Ingravallo, E. and Calcagnile, L., 2014. The Copper Age Mound Necropolis in Salve, Lecce, Italy: Radiocarbon Dating Results on Charcoals, Bones, Cremated Bones, and Pottery. Radiocarbon, 56(3), pp.949-957.
+
+Quarta, G., Giorgia, A., Ingravallo, E., Tiberi, I. and Calcagnile, L., 2018. Radiocarbon dates and XRF analyses from two prehistoric contexts in the Badisco area (Otranto?Le). Measurement, 125, pp.279-283.
+
+Quero, T., Martinelli, M.C. and Giordano, L., 2019. The Neolithic Site of San Martino—Sicily: Working and Circulation of Obsidian from Lipari. Open Archaeology, 5(1), pp.65-82.
+
+Radi, G. and Tozzi, C., 2009. La ceramica impressa e la cultura di Catignano in Abruzzo.
+
+Radina, F., Pofi, G., Vitale, V., and Pizzarelli, A., 2017. L’insediamento nell’Alta Murgia tra mediaetà del Bronzo e prima età del Ferro. In: F. Redina (Ed.), Preistoria e Protostoria della Puglia. (Studi Di Preistoria e Protostoria 4). Firenze: Istituto Italiano di Preistoria e Protostoria, 481-488.
+
+Raetzel-Fabian, D., 2000. Calden: Erdwerk und Bestattungsplätze des Jungneolithikums: Architektur, Ritual, Chronologie. R. Habelt.
+
+Ravazzi, C., Pini, R., De Amicis, M., Castellano, L., Comolli, R., El Khair, D.A., Furlanetto, G., Marsetti, D. and Perego, R., 2020. Paleoecological archives unraveling the early land-use history at the emergence of the Bronze Age settlement of Bergamo (Italian Alps). Review of Palaeobotany and Palynology, p.104205.
+
+Reimer, P. J., Bard, E., Bayliss, A., Beck, J. W., Blackwell, P. G., Bronk Ramsey, C., Grootes, P. M., Guilderson, T. P., Haflidason, H., Hajdas, I., Hattﾎ, C., Heaton, T. J., Hoffmann, D. L., Hogg, A. G., Hughen, K. A., Kaiser, K. F., Kromer, B., Manning, S. W., Niu, M., Reimer, R. W., Richards, D. A., Scott, E. M., Southon, J. R., Staff, R. A., Turney, C. S. M., & van der Plicht, J. (2013). IntCal13 and Marine13 Radiocarbon Age Calibration Curves 0-50,000 Years cal BP. Radiocarbon, 55(4).
+
+Rickards, O., et al., 2017. I più antichi agricoltori italiani: nuove prospettive di ricerca su base multidisciplinare. Studi di Preistoria e Protostoria 4, 363-367. 
+
+Ringbom, Å., Hale, J., Heinemeier, J., Lindroos, A., Brock, F. and Dunkeld, M., 2006. The use of mortar dating in archaeological studies of Classical and Medieval structures. In Proceedings of the Second International Congress on Construction History (Vol. 3, pp. 2613-33).
+
+Rolfo, M.F., Achino, K.F., Fusco, I., Salari, L. and Silvestri, L., 2016. Reassessing human occupation patterns in the inner central Apennines in prehistory: The case-study of Grotta Mora Cavorso. Journal of Archaeological Science: Reports, 7, pp.358-367.
+
+
+Rossi, M., Quarta, G. and Calcagnile, L., 2013. Datazione con il radiocarbonio di ceramiche e intonaci preistorici. SCIRES-IT-SCIentific RESearch and Information Technology, 3(2), pp.159-170. 
+
+Rubinos, A. and Ruiz-Gálvez, M., 2003. El proyecto Pranemuru y la cronología radiocarbónica para la Edad del Bronce en Cerdeña. Trabajos de prehistoria, 60(2), pp.91-115.
+
+Rutgers, L.V., Borg, K.V.D., Jong, A.F.D., Linde, C.V.D. and Prins, J., 2007. Further radiocarbon dates from the catacombs of St. Callixtus in Rome. Radiocarbon, 49(3), pp.1221-1230.
+
+Saccoccio, F., Marzocchella, A. and Vanzetti, A., 2013. The field system of Gricignano d'Aversa (Southern Italy) and the agrarian impact in the Piana Campana, ca. 3900 cal BP. Quaternary international, 303, pp.82-92. 
+
+Sadori, L., Mercuri, A.M. and Mariotti Lippi, M., 2010. Reconstructing past cultural landscape and human impact using pollen and plant macroremains. Plant Biosystems, 144(4), pp.940-951.
+
+Salomon, F., Delile, H., Goiran, J.P., Bravard, J.P. and Keay, S., 2012. The Canale di Comunicazione Traverso in Portus: the Roman sea harbour under river influence (Tiber delta, Italy). Géomorphologie: relief, processus, environnement, 18(1), pp.75-90.
+
+Salzani, L., Capitanio, M.A., Corrain, C. and Meneghel, M., 1991. Olmo di Nogara. Relazione preliminare sulle campagne di scavo, 1992, pp.7-52.
+
+Sánchez, M.C., Espejo, F.J.J., Vallejo, M.D.S., Bao, J.F.G., Carvalho, A.F., Martinez-Ruiz, F., Gamiz, M.R., Flores, J.A., Paytan, A., Sáez, J.A.L. and Peña-Chocarro, L., 2012. The Mesolithic–Neolithic transition in southern Iberia. Quaternary Research, 77(2), pp.221-234.
+
+Sánchez, R.M.M., de la Cruz, J.C.M., Tusa, S., Jiménez, J.L.U. and Ingoglia, A.K., 2016. New contribution to absolute dating of the monumental neolithic ditch-trench of Stretto-Partanna (Trapani, Sicily). Trabajos de Prehistoria, 73(2), pp.315-324.
+
+Sarigu, M., Floris, G.U., Floris, R. and Pusceddu, V., 2016. The Osteological Collection of the University of Cagliari: From Early Neolithic to Modern Age. HOMO-Journal of Comparative Human Biology, 67(3), pp.216-225. 
+
+Sarti, L. and Fenu, P., 1998. Il sito Campaniforme di Volpaia (Sesto Fiorentino, Firenze). In Bell Beakers today. Pottery, people, culture, symbols in prehistoric Europe. Proceedings of the international colloquium Riva del Garda (Trento, Italy) (pp. 11-16).
+
+Scarabino, C., Lubritto, C., Proto, A., Rubino, M., Fiengo, G., Marzaioli, F., Passariello, I., Busiello, G., Fortunato, A., Alfano, D. and Sabbarese, C., 2006. Paleodiet characterisation of an Etrurian population of Pontecagnano (Italy) by isotope ratio mass spectrometry (IRMS) and atomic absorption spectrometry (AAS). Isotopes in environmental and health studies, 42(2), pp.151-158.
+
+Schiappelli, A., 2008. Sviluppo Storico della Tiberina nell'Eta' del Bronzo e nella prima eta' del Ferro. Firenze: All'Insegna del Giglio, 210.
+
+Scoz, L., Cavulli, F., Fedrigotti, A., Neri, S., Pedrotti, A. and Dalmeri, G., 2016. New data on the first human settlements in western Trentino: The site of Pozza Lavino in the Ledro valley (Trentino, Italy). Quaternary International, 423, pp.49-57.
+
+Silvestri, E., Hauptmann, A., Bellintani, P., Mottes, E. and Nicolis, F., 2015. Bronzezeitliche Kupferverhüttung in trentino. Bergauf—Bergab, 10, pp.201-208.
+
+Skeats, R., 1993. The Neolithic and Copper Age of the Abruzzo-Marche Region, Central Italy (Doctoral dissertation, University of Oxford).
+
+Skeates, R., 1994. A radiocarbon date-list for prehistoric Italy (c. 46,400 BP-2450 BP/400 cal. BC). Radiocarbon dating and italian prehistory, 3, pp.147-288.
+
+Skeates, R., 1996. Towards an absolute chronology for the Copper Age in central Italy: A note based on the Conelle site and culture. Papers of the British School at Rome, pp.273-282.
+
+Skeates, R., 2001. New radiocarbon dates for prehistoric Italy and Malta. Accordia Research Papers, 8, pp.165-186.
+
+Skeates, R., 2003. New radiocarbon dates for prehistoric Italy: supplementary list 5. Accordia research papers., 9, pp.163-182.
+
+Skeates, R. and Whitehouse, R., 1994. New radiocarbon dates for prehistoric Italy 1. Accordia Research Papers, 5, pp.137-50.
+
+Skeates, R. and Whitehouse, R., 1997. New radiocarbon Dates for prehistoric italy, 2. The Accordia Research Papers, 6(1995-96), pp.179-191.
+
+Skeates, R. and Whitehouse, R., 1997-8. New radio carbon dates for prehistoric Italy 3. The Accordia Research Papers 7: 149-62.
+
+Steele,J., and Shennan, D., 2000. Spatial and Chronological Patterns in the Neolithisation of Europe [data-set]. York: Archaeology Data Service [distributor] https://doi.org/10.5284/1000207
+
+Stoddart, S. and Malone, C. eds., 1994. Territory, Time and State: The Archaeological Development of the Gubbio Basin. Cambridge University Press.
+
+Stuckenrath, R., Coe, W.R. and Ralph, E.K., 1966. University of Pennsylvania radiocarbon dates IX. Radiocarbon, 8, pp.348-385.
+
+Spanedda L, 2006. La edad del bronce en el Golfo de Orosei (Cerdeña, Italia). PhD Thesis, Universidad de Granada.
+
+Sparacello, V.S., Panelli, C., Rossi, S., Dori, I., Varalli, A., Goude, G., Starnini, E. and Biagi, P., 2019. The re-discovery of Arma dell’Aquila (Finale Ligure, Italy): New insights on Neolithic funerary behavior from the sixth millennium BCE in the north-western Mediterranean. Quaternary International, 512, pp.67-81.
+
+Sparacello, V.S., Varalli, A., Rossi, S., Panelli, C., Goude, G., Palstra, S.W.L., Conventi, M., Del Lucchese, A., Arobba, D., De Pascale, A. and Zavattaro, M., 2020. Dating the funerary use of caves in Liguria (northwestern Italy) from the Neolithic to historic times: Results from a large-scale AMS campaign on human skeletal series. Quaternary International, 536, pp.30-44.
+
+Starnini, E., Biagi, P. and Mazzucco, N., 2017. The beginning of the Neolithic in the Po Plain (northern Italy): Problems and perspectives. Quaternary International 470, 301-317
+
+Tarantini, M. and Galimberti, A. eds., 2011. Le miniere di selce del Gargano VI-III millennio aC Alle origini della storia mineraria europea-Rassegna di archeologia preistorica e protostorica 24/A 2009-2011 (Vol. 24). all’Insegna del Giglio.
+
+Tasca, G., 2004. Lo scavo della Gradiscje di Codroipo. evidenze e materiali. TASCA G., PUTZOLU C., VICENZUTTO D., a cura di, Un castelliere del Medio Friuli. Gradiscje di Codroipo, 2014, pp.62-91.
+
+Tiné, V., 2004. Un data-base per i siti del Neolitico italiano. Fugazzola Delpino MA, Pessina A., TINÉ V., a cura di, Il Neolitico In Italia, Ricognizione, catalogazione e pubblicazione dei dati bibliografici, archivistici, materiali e monumentali.
+
+Tiné, V., Natali, E., Sciola, L., Dal Santo, N. and Fuolega, F., 2015. Il sito del Neolitico recente e finale di Castelnuovo di Teolo (Padova): nuovi dati. In: G. Leonardi and V. Tine' (Eds.),  Preistoria e protostoria del Veneto. Studi di Preistoria e Protostoria 2. Firenze: Istituto italiano di preistoria e protostoria, 129-137.
+
+Tozzi, C., 1975. Il Mesolitico della Campania. Atti della XVII Riunione Scientifica, Preistoria e Protostoria della Campania, pp.13-32.
+
+Tozzi, C., 1998. Culture de Catignano-Scaloria Bassa.
+
+Tozzi, C. and ZAMAGNI, B., 2003. Gli scavi nel villaggio neolitico di Catignano (1971-1980).
+
+Tunzi Sisto, A. M., and Monaco, A., 2010. Vaccarella – Masseria Fragella (Lucera- FG): sepolture eneolitiche di facies Laterza. In: A. Gravina (Ed.),  30esimo Convegno Nazionale sulla Preistoria – Protostoria – Storia della Daunia. San Severo 21-22 Novembre 2009. Foggia: Centro Grafico, 127-136. 
+
+
+Tykot, R.H., 1994. Radiocarbon dating and absolute chronology in Sardinia and Corsica. Radiocarbon dating and Italian prehistory, (14), pp.115-145.
+
+Tykot, R., and Vianello, A., 2007. In: Gulli' D. (Ed.),  Le  evidenze  di  contrada  Scintilia  nell?ambito  dei  rituali  funerari  dell?et?  del  rame. Palermo: Regione Siciliana, 55-60.
+
+Ucchesu, M., 2014. Origini e diffusione dell’agricoltura in Sardegna: studio dei resti vegetali della preistoria. Unpublished PhD thesis. University of Cagliari. 
+
+Ucchesu, M., Orru, M., Grillo, O., Venora, G., Usai, A., Serreli, P.F. and Bacchetta, G., 2015. Earliest evidence of a primitive cultivar of Vitis vinifera L. during the Bronze Age in Sardinia (Italy). Vegetation History and Archaeobotany, 24(5), pp.587-600.
+
+Ucchesu, M., Manunza, M.R. and Sabato, D., 2018. Agriculture and exploitation of wild plants at Chalcolithic (4th to 3rd millennium cal BC) sites in Sardinia (Italy). Archaeological and Anthropological Sciences, 10(7), pp.1693-1702.
+
+Valastro, S., Mott Davis, JR E., Varela, A. G., 1977. University of Texas at Austin Radiocarbon Dates XI. Radiocarbon 19 (2), 280-325.
+
+Valastro, S., Mott Davis, JR E., Varela, A. G., 1978. University of Texas at Austin Radiocarbon dates XII. Radiocarbon 20, 245-273.
+
+Valzolgher, E., Meadows, J., Salzani, P. and Salzani, L., 2012. Radiocarbon dating of the early Bronze Age cemetery at Arano, Verona, northern Italy. Radiocarbon, 54(3-4), pp.483-503.
+
+van der Plicht, J., Bruins, H.J. and Nijboer, A.J., 2009. The Iron Age around the Mediterranean: a high chronology perspective from the Groningen radiocarbon database. Radiocarbon, 51(1), pp.213-42.
+
+Van Rossenberg, E., 2012. Cultural landscapes, social networks and historical trajectories: A data-rich synthesis of Early Bronze Age networks (c. 2200-1700 BC) in Abruzzo and Lazio (Central Italy). PhD Thesis
+
+Venditti, F., Lemorini, C., Bordigoni, M., Zampetti, D., Amore, M. and Tagliacozzo, A., 2016. THE ROLE OF BURINS AND THEIR RELATIONSHIP WITH ART THROUGH TRACE ANALYSIS AT THE UPPER PALAEOLITHIC SITE OF POLESINI CAVE (LATIUM, ITALY). Origini, (39).
+
+Venturino-Gambari, M., and Motella de Carlo, S.,1995. Le datazioni radiometriche. In: M. Venturino-Gambari, Navigatori e contadini : Alba e la valle del Tanaro nella preistoria, Quaderni della Soprintendenza Archeologica del Piemonte 4. 
+
+Venturino Gambari, M., Chiarenza, N., Merlo, F., Fulcheri, E., and Micheletti Cremasco, M., 2011. Quaderni della Soprintendenza Archeologica del Piemonte,26, 13-36.
+
+Venturino Gambari, M., Padovan S., and Tiberio, D., 2012. Quaderni della Soprintendenza Archeologica del Piemonte 27, 28.
+
+Vetro, D.L. and Martini, F., 2016. Mesolithic in central–southern Italy: overview of lithic productions. Quaternary international, 423, pp.279-302.
+
+Visentini, P. 2006. Aspetti cronologici e culturali della fine del Neolitico nell'Italia nord-orientale. In: Pessina, A., and Visentini, P. (eds.), Preistoria dell'Italia settentrionale. Studi in ricordo di Bernardino Bagolini Atti del Convegno, Udine settembre 2005, pp. 225-242.
+
+Visentini, P., Bernabò Brea, M., Kromer, B., Fasani, L., Balzani, L., Balzani, P. and Talamo, S., 2004. Preliminari considerazioni sulle ultime fasi del Neolitico dell’Italia Settentrionale alla luce dei recenti ritrovamenti e delle nuove datazioni assolute. Bollettino del Museo Civico di Storia Naturale di Verona, 28, pp.133-146.
+
+Visentin, D., Angelucci, D.E., Berruti, G.L., Bertola, S., Leis, M., Marchesini, M., Marvelli, S., Pezzi, M., Rizzoli, E., Hohenstein, U.T. and Ziggiotti, S., 2016. First evidence of human peopling in the southern Po plain after the LGM: the early Sauveterrian site of Collecchio (Parma, Northern Italy). Preistoria Alpina, 48, pp.115-128.
+
+Vogel, J.C. and Waterbolk, H., 1963. Groningen radiocarbon dates IV. Radiocarbon, 5, pp.163-202.
+
+Vogel, J.C. and Waterbolk, H.T., 1972. Groningen radiocarbon dates X. Radiocarbon, 14(1), pp.6-110.
+
+Webster, G.S. and Webster, M.R., 1998. The Duos Nuraghes project in Sardinia: 1985–1996 interim report. Journal of field archaeology, 25(2), pp.183-201.
+
+Whitehouse, R., 2014. The chronology of the Neolithic ditched settlements of the Tavoliere and the Ofanto valley. Accordia Research Papers, 13, pp.57-77.
+
+Zanini, A. and Martinelli, N., 2005. New data on the absolute Chronology of the Late Bronze Age in Central Italy. In The Bronze Age in Europe and the Mediterranean, Acts of the XIVth UISPP Congress,(BAR IS 1337) (pp. 147-155).
+
