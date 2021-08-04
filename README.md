@@ -57,7 +57,7 @@ E- the radiocarbon sample is within a 20 km radius’ buffer of the coordinates 
 
 ## Major contributing datasets/databases
 
-The literature used to compile the present dataset can be found in the file references_dates.txt. However, NERD benefitted from the following existing digital online archives:
+The literature used to compile the present dataset can be found in the file references_dates.txt. However, AIDA benefitted from the following existing digital online archives:
 
 * [BANADORA. Banque Nationale de Données Radiocarbonne pour l'Europe et le Proche Orient, Centre de Datation par le Radiocarbonne.](http://www.arar.mom.fr/banadora/) Lyon: CNRS.  
 
