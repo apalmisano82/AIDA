@@ -91,9 +91,9 @@ Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA
 
 * Stoddart, S., Woodbridge, J., Palmisano, A., Mercuri, A.M., Mensing, S.A., Colombaroli, D., Sadori, L., Magri, D., Di Rita, F., Giardini, M., and Mariotti Lippi, M., 2019. [Tyrrhenian central Italy: Holocene population and landscape ecology.](https://journals.sagepub.com/doi/abs/10.1177/0959683619826696) The Holocene, 29(5), pp.761-775.
 
-## Grants
+## Grant
 
-The archive AIDA was collated thanks to the following grants:
+The archive AIDA was collated thanks to the following grant:
 
 * [Changing the Face of The Mediterranean: Land cover and population since the advent of farming.](https://www.plymouth.ac.uk/research/centre-for-research-in-environment-and-society-ceres/changing-the-face-of-the-mediterranean-land-cover-and-population-since-the-advent-of-farming) Leverhulme Trust, grant number:RPG-2015-031. Grant holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe (Co-I), & Stephen Shennan (Co-I). 
 
