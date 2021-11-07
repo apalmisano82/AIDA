@@ -85,7 +85,7 @@ Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA
 
 * Palmisano, A., Bevan, A., & Shennan, S., 2018. [Regional Demographic Trends and Settlement Patterns in Central Italy: Archaeological Sites and Radiocarbon Dates.](http://doi.org/10.5334/joad.43) Journal of Open Archaeology Data, 6(1), p.2. 
 
-* Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., and Shennan, S., 2021. [Long-Term Demographic Trends in Prehistoric Italy: climate impacts and regionalised socio-ecological trajectories.](https://doi.org/10.1007/s10963-021-09159-3) Journal of World Prehistory, 34 (3). 
+* Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., and Shennan, S., 2021. [Long-Term Demographic Trends in Prehistoric Italy: climate impacts and regionalised socio-ecological trajectories.](https://doi.org/10.1007/s10963-021-09159-3) Journal of World Prehistory, 34 (3), pp. 381-432.  
 
 * Roberts, C.N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., and Shennan, S., 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.](https://journals.sagepub.com/doi/abs/10.1177/0959683619826697) The Holocene, 29(5), pp.923-937.
 
