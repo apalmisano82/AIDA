@@ -65,9 +65,9 @@ The literature used to compile the present dataset can be found in the file refe
 
 * Capuzzo, G., Boaretto, E. and Barceló, J.A., 2014. [EUBAR: A database of 14C measurements for the European Bronze Age. A Bayesian analysis of 14C-dated archaeological contexts from Northern Italy and Southern France.](https://www.cambridge.org/core/journals/radiocarbon/article/abs/eubar-a-database-of-14c-measurements-for-the-european-bronze-age-a-bayesian-analysis-of-14cdated-archaeological-contexts-from-northern-italy-and-southern-france/DF3C690F061B00012963E4ACED54BDD0) Radiocarbon, 56(2), pp.851-869.(http://www.telearchaeology.org/EUBAR/)
 
-* Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age.](http://radon.ufg.uni-kiel.de/) Journal of Neolithic Archaeology, 14, 1-4
+* Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age.](http://radon.ufg.uni-kiel.de/) Journal of Neolithic Archaeology, 14, pp. 1-4.
 
-* [IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.](http://c14.kikirpa.be/) Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database. Radiocarbon, 53(2), pp.367-370. 
+* [IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.](http://c14.kikirpa.be/) Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database. Radiocarbon, 53(2), pp. 367-370. 
 
 * [ORAU. Oxford Radiocarbon Accelerator Unit online database.](https://c14.arch.ox.ac.uk/database/db.php) Oxford: University of Oxford.
 
@@ -81,7 +81,7 @@ Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA
 
 ## Case studies using AIDA
 
-* Palmisano, A., Bevan, A. and Shennan, S., 2017. [Comparing archaeological proxies for long-term population patterns: An example from central Italy.](https://www.sciencedirect.com/science/article/pii/S0305440317301474) Journal of Archaeological Science, 87, pp.59-72.
+* Palmisano, A., Bevan, A. and Shennan, S., 2017. [Comparing archaeological proxies for long-term population patterns: An example from central Italy.](https://www.sciencedirect.com/science/article/pii/S0305440317301474) Journal of Archaeological Science, 87, pp. 59-72.
 
 * Palmisano, A., Bevan, A., & Shennan, S., 2018. [Regional Demographic Trends and Settlement Patterns in Central Italy: Archaeological Sites and Radiocarbon Dates.](http://doi.org/10.5334/joad.43) Journal of Open Archaeology Data, 6(1), p.2. 
 
