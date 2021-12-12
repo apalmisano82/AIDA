@@ -63,7 +63,7 @@ The literature used to compile the present dataset can be found in the file refe
 
 * [CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package.](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) Developed by Weninger, B., Jöris, O., and Danzeglocke, U.
 
-* Capuzzo, G., Boaretto, E. and Barceló, J.A., 2014. [EUBAR: A database of 14C measurements for the European Bronze Age. A Bayesian analysis of 14C-dated archaeological contexts from Northern Italy and Southern France.](https://www.cambridge.org/core/journals/radiocarbon/article/abs/eubar-a-database-of-14c-measurements-for-the-european-bronze-age-a-bayesian-analysis-of-14cdated-archaeological-contexts-from-northern-italy-and-southern-france/DF3C690F061B00012963E4ACED54BDD0) Radiocarbon, 56(2), pp.851-869.(http://www.telearchaeology.org/EUBAR/)
+* Capuzzo, G., Boaretto, E. and Barceló, J.A., 2014. [EUBAR: A database of 14C measurements for the European Bronze Age. A Bayesian analysis of 14C-dated archaeological contexts from Northern Italy and Southern France.](https://www.cambridge.org/core/journals/radiocarbon/article/abs/eubar-a-database-of-14c-measurements-for-the-european-bronze-age-a-bayesian-analysis-of-14cdated-archaeological-contexts-from-northern-italy-and-southern-france/DF3C690F061B00012963E4ACED54BDD0) Radiocarbon, 56(2), pp. 851-869.(http://www.telearchaeology.org/EUBAR/)
 
 * Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. [RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age.](http://radon.ufg.uni-kiel.de/) Journal of Neolithic Archaeology, 14, pp. 1-4.
 
