@@ -97,6 +97,6 @@ Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA
 
 The archive AIDA was collated thanks to the following grant:
 
-* [Changing the Face of The Mediterranean: Land cover and population since the advent of farming.](https://www.plymouth.ac.uk/research/centre-for-research-in-environment-and-society-ceres/changing-the-face-of-the-mediterranean-land-cover-and-population-since-the-advent-of-farming) Leverhulme Trust, grant number:RPG-2015-031. Grant holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe (Co-I), & Stephen Shennan (Co-I). 
+* [Changing the Face of The Mediterranean: Land cover and population since the advent of farming.](https://www.plymouth.ac.uk/research/centre-for-research-in-environment-and-society-ceres/changing-the-face-of-the-mediterranean-land-cover-and-population-since-the-advent-of-farming) Leverhulme Trust, grant number:RPG-2015-031. Award holders: Neil Roberts (PI), Andrew Bevan (Co-I), Ralph Fyfe (Co-I), & Stephen Shennan (Co-I). 
 
 ![logo](https://user-images.githubusercontent.com/13691742/128041312-cd2969ab-7be7-4660-87e7-0539a36c7b2a.png)
