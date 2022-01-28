@@ -79,7 +79,7 @@ The literature used to compile the present dataset can be found in the file refe
 The AIDA dataset is made available under the [Creative Common License CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## How to cite
-Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2021. "AIDA: Archive of Italian radiocarbon DAtes", version 3.0 (13 January 2022): https://github.com/apalmisano82/AIDA
+Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2022. "AIDA: Archive of Italian radiocarbon DAtes", version 3.0 (13 January 2022): https://github.com/apalmisano82/AIDA
 
 ## Case studies using AIDA
 
