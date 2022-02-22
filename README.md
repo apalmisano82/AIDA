@@ -83,15 +83,15 @@ Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2022. "AIDA
 
 ## Case studies using AIDA
 
-* Palmisano, A., Bevan, A. and Shennan, S., 2017. [Comparing archaeological proxies for long-term population patterns: An example from central Italy.](https://www.sciencedirect.com/science/article/pii/S0305440317301474) Journal of Archaeological Science, 87, pp. 59-72.
+* Palmisano, A., Bevan, A. and Shennan, S., 2017. [Comparing archaeological proxies for long-term population patterns: An example from central Italy.](https://www.sciencedirect.com/science/article/pii/S0305440317301474)<em> Journal of Archaeological Science, 87</em>, pp. 59-72.
 
-* Palmisano, A., Bevan, A., & Shennan, S., 2018. [Regional Demographic Trends and Settlement Patterns in Central Italy: Archaeological Sites and Radiocarbon Dates.](http://doi.org/10.5334/joad.43) Journal of Open Archaeology Data, 6(1), p.2. 
+* Palmisano, A., Bevan, A., & Shennan, S., 2018. [Regional Demographic Trends and Settlement Patterns in Central Italy: Archaeological Sites and Radiocarbon Dates.](http://doi.org/10.5334/joad.43)<em> Journal of Open Archaeology Data, 6</em>(1), p.2. 
 
-* Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., and Shennan, S., 2021. [Long-Term Demographic Trends in Prehistoric Italy: climate impacts and regionalised socio-ecological trajectories.](https://doi.org/10.1007/s10963-021-09159-3) Journal of World Prehistory, 34 (3), pp. 381-432.  
+* Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., and Shennan, S., 2021. [Long-Term Demographic Trends in Prehistoric Italy: climate impacts and regionalised socio-ecological trajectories.](https://doi.org/10.1007/s10963-021-09159-3)<em> Journal of World Prehistory, 34</em> (3), pp. 381-432.  
 
-* Roberts, C.N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., and Shennan, S., 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.](https://journals.sagepub.com/doi/abs/10.1177/0959683619826697) The Holocene, 29(5), pp. 923-937.
+* Roberts, C.N., Woodbridge, J., Palmisano, A., Bevan, A., Fyfe, R., and Shennan, S., 2019. [Mediterranean landscape change during the Holocene: Synthesis, comparison and regional trends in population, land cover and climate.](https://journals.sagepub.com/doi/abs/10.1177/0959683619826697)<em> The Holocene, 29</em>(5), pp. 923-937.
 
-* Stoddart, S., Woodbridge, J., Palmisano, A., Mercuri, A.M., Mensing, S.A., Colombaroli, D., Sadori, L., Magri, D., Di Rita, F., Giardini, M., and Mariotti Lippi, M., 2019. [Tyrrhenian central Italy: Holocene population and landscape ecology.](https://journals.sagepub.com/doi/abs/10.1177/0959683619826696) The Holocene, 29(5), pp. 761-775.
+* Stoddart, S., Woodbridge, J., Palmisano, A., Mercuri, A.M., Mensing, S.A., Colombaroli, D., Sadori, L., Magri, D., Di Rita, F., Giardini, M., and Mariotti Lippi, M., 2019. [Tyrrhenian central Italy: Holocene population and landscape ecology.](https://journals.sagepub.com/doi/abs/10.1177/0959683619826696)<em> The Holocene, 29</em>(5), pp. 761-775.
 
 ## Grant
 
