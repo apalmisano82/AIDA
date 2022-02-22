@@ -85,7 +85,7 @@ Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2022. "AIDA
 
 * Palmisano, A., Bevan, A. and Shennan, S., 2017. [Comparing archaeological proxies for long-term population patterns: An example from central Italy.](https://www.sciencedirect.com/science/article/pii/S0305440317301474)<em> Journal of Archaeological Science, 87</em>, pp. 59-72.
 
-* Palmisano, A., Bevan, A., & Shennan, S., 2018. [Regional Demographic Trends and Settlement Patterns in Central Italy: Archaeological Sites and Radiocarbon Dates.](http://doi.org/10.5334/joad.43)<em> Journal of Open Archaeology Data, 6</em>(1), p.2. 
+* Palmisano, A., Bevan, A., & Shennan, S., 2018. [Regional Demographic Trends and Settlement Patterns in Central Italy: Archaeological Sites and Radiocarbon Dates.](http://doi.org/10.5334/joad.43)<em> Journal of Open Archaeology Data, 6</em>(1), pp. 1-5. 
 
 * Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., and Shennan, S., 2021. [Long-Term Demographic Trends in Prehistoric Italy: climate impacts and regionalised socio-ecological trajectories.](https://doi.org/10.1007/s10963-021-09159-3)<em> Journal of World Prehistory, 34</em> (3), pp. 381-432.  
 
