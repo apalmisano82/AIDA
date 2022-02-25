@@ -1,6 +1,9 @@
 # AIDA (Archive of Italian radiocarbon DAtes)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5846835.svg)](https://doi.org/10.5281/zenodo.5846835)
+[![version](https://img.shields.io/badge/version-3.0-cyan.svg)](https://github.com/apalmisano82/AIDA)
+[![Github All Releases](https://img.shields.io/github/downloads/apalmisano82/AIDA/total?style=social)]()
+![views](https://gpvc.arturio.dev/apalmisano82)
 
 #### Alessio Palmisano, Andrew Bevan, Alex Kabelindde, Neil Roberts & Stephen Shennan 
 
@@ -76,7 +79,8 @@ The literature used to compile the present dataset can be found in the file refe
 
 ## Licence
 
-The AIDA dataset is made available under the [Creative Common License CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The AIDA dataset is made available under the [Creative Common License CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 
 ## How to cite
 Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2022. "AIDA: Archive of Italian radiocarbon DAtes", version 3.0 (13 January 2022): https://github.com/apalmisano82/AIDA
