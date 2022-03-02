@@ -1,7 +1,7 @@
 # AIDA (Archive of Italian radiocarbon DAtes)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5846835.svg)](https://doi.org/10.5281/zenodo.5846835)
-[![version](https://img.shields.io/badge/version-3.0-cyan.svg)](https://github.com/apalmisano82/AIDA)
+[![version](https://img.shields.io/badge/version-4.0-cyan.svg)](https://github.com/apalmisano82/AIDA)
 
 
 #### Alessio Palmisano, Andrew Bevan, Alex Kabelindde, Neil Roberts & Stephen Shennan 
