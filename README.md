@@ -6,7 +6,7 @@
 
 #### Alessio Palmisano, Andrew Bevan, Alex Kabelindde, Neil Roberts & Stephen Shennan 
 
-The archive AIDA provides a collation of 4,005 radiocarbon dates from 946 archaeological sites in Italy  (mainland, including Sicily and Sardinia) spanning from 11,000 to 1500 uncal. yr. BP . These dates have been collected from existing online digital archives, and electronic and print original publications. 
+The archive AIDA provides a collation of 4,040 radiocarbon dates from 948 archaeological sites in Italy  (mainland, including Sicily and Sardinia) spanning from 11,000 to 1500 uncal. yr. BP . These dates have been collected from existing online digital archives, and electronic and print original publications. 
 
 ![Fig1](https://user-images.githubusercontent.com/13691742/128021804-165e950c-4488-43a2-bd30-6dec327c9d19.jpg)
 
@@ -82,7 +82,7 @@ The AIDA dataset is made available under the [Creative Common License CC-BY 4.0]
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 
 ## How to cite
-Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2022. "AIDA: Archive of Italian radiocarbon DAtes", version 3.0 (13 January 2022): https://github.com/apalmisano82/AIDA
+Palmisano, A., Bevan, A., Kabelindde,A., Roberts, N., & Shennan, S., 2022. "AIDA: Archive of Italian radiocarbon DAtes", version 4.0 (2 March 2022): https://github.com/apalmisano82/AIDA
 
 ## Case studies using AIDA
 
