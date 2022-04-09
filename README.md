@@ -73,7 +73,7 @@ The literature used to compile the present dataset can be found in the file refe
 
 * [ORAU. Oxford Radiocarbon Accelerator Unit online database.](https://c14.arch.ox.ac.uk/database/db.php) Oxford: University of Oxford.
 
-* Parkinson, E. W., McLaughlin, T. R., Esposito, C., Stoddart, S., & Malone, C. 2021.[Radiocarbon dated trends and central Mediterranean prehistory.](https://doi.org/10.1007/s10963-021-09158-4) Journal of World Prehistory, 34(3), pp. 317-379.     
+* Parkinson, E. W., McLaughlin, T. R., Esposito, C., Stoddart, S., & Malone, C. 2021. [Radiocarbon dated trends and central Mediterranean prehistory.](https://doi.org/10.1007/s10963-021-09158-4) Journal of World Prehistory, 34(3), pp. 317-379.     
 
 * Vermeersch, P.M., 2021. [Radiocarbon Palaeolithic Europe Database, Version 28.](https://ees.kuleuven.be/geography/projects/14c-palaeolithic/index.html)
 
