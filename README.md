@@ -18,7 +18,6 @@ There are several caveats related to the present dataset as the original radioca
 
 The two figures above are reproducible through an R script available via [apalmisano82/AIDA_figures](https://github.com/apalmisano82/AIDA_figures)
  
-<font size="1">text</font>
 
 ## Main Dataset AIDA
 
