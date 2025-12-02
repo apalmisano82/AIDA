@@ -1,6 +1,6 @@
 # AIDA (Archive of Italian radiocarbon DAtes)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6427045.svg)](https://doi.org/10.5281/zenodo.6427045)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6427045.svg)](https://doi.org/10.5281/zenodo.17794379)
 [![version](https://img.shields.io/badge/version-6.0-cyan.svg)](https://github.com/apalmisano82/AIDA)
 
 
